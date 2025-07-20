@@ -1,5 +1,8 @@
 name: Scrape PS4 Games
 
+permissions:
+  contents: write
+
 on:
   # Ejecutar automáticamente 2 veces al día
   schedule:
