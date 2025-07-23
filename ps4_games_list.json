@@ -2,7 +2,7 @@
   "timestamp": "2025-07-23",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1774,
+  "total_games": 1781,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -99,6 +99,10 @@
     {
       "name": "Aces Of The Luftwaffe",
       "url": "https://www.superpsx.com/aces-of-the-luftwaffe-ps4-fpkg/"
+    },
+    {
+      "name": "Achilles Legends Untold",
+      "url": "https://www.superpsx.com/achilles-legends-untold-ps4-fpkg/"
     },
     {
       "name": "Active Soccer 2 DX",
@@ -551,6 +555,10 @@
     {
       "name": "Beholgar",
       "url": "https://www.superpsx.com/beholgar-ps4-fpkg/"
+    },
+    {
+      "name": "Below",
+      "url": "https://www.superpsx.com/below-ps4-fpkg/"
     },
     {
       "name": "Beyond A Steel Sky",
@@ -1781,6 +1789,10 @@
       "url": "https://www.superpsx.com/earth-defense-force-iron-rain-ps4-fpkg/"
     },
     {
+      "name": "Earth Defense Force World Brothers",
+      "url": "https://www.superpsx.com/earth-defense-force-world-brothers-ps4-fpkg/"
+    },
+    {
       "name": "Earthfall",
       "url": "https://www.superpsx.com/earthfall-ps4-fpkg/"
     },
@@ -2383,6 +2395,10 @@
     {
       "name": "Granblue Fantasy Versus",
       "url": "https://www.superpsx.com/granblue-fantasy-versus-ps4-fpkg/"
+    },
+    {
+      "name": "Granblue Fantasy Versus Rising Deluxe Edition",
+      "url": "https://www.superpsx.com/granblue-fantasy-versus-rising-deluxe-edition-ps4-fpkg/"
     },
     {
       "name": "Gravel",
@@ -5257,6 +5273,10 @@
       "url": "https://www.superpsx.com/south-park-the-fractured-but-whole-ps4-fpkg/"
     },
     {
+      "name": "Space Engineers",
+      "url": "https://www.superpsx.com/space-engineers-ps4-fpkg/"
+    },
+    {
       "name": "Space Hulk Deathwing",
       "url": "https://www.superpsx.com/space-hulk-deathwing-ps4-fpkg/"
     },
@@ -5521,6 +5541,10 @@
       "url": "https://www.superpsx.com/subnautica-ps4-fpkg/"
     },
     {
+      "name": "Summer Games Beach Volley",
+      "url": "https://www.superpsx.com/summer-games-beach-volley-ps4-fpkg/"
+    },
+    {
       "name": "Summer Games Challenge",
       "url": "https://www.superpsx.com/summer-games-challenge-ps4-fpkg/"
     },
@@ -5643,6 +5667,10 @@
     {
       "name": "Syphon Filter",
       "url": "https://www.superpsx.com/syphon-filter-ps4-fpkg/"
+    },
+    {
+      "name": "System Shock",
+      "url": "https://www.superpsx.com/system-shock-ps4-fpkg/"
     },
     {
       "name": "Tachyon Project",
