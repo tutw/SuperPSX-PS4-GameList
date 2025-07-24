@@ -2,7 +2,7 @@
   "timestamp": "2025-07-24",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1781,
+  "total_games": 1791,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -123,6 +123,10 @@
     {
       "name": "Adr1Ft",
       "url": "https://www.superpsx.com/adr1ft-ps4-fpkg/"
+    },
+    {
+      "name": "Adventures Of Chris",
+      "url": "https://www.superpsx.com/adventures-of-chris-ps4-fpkg/"
     },
     {
       "name": "Aeterna Noctis",
@@ -1429,6 +1433,10 @@
       "url": "https://www.superpsx.com/deaths-gambit-ps4-fpkg/"
     },
     {
+      "name": "Deception IV The Nightmare Princess",
+      "url": "https://www.superpsx.com/deception-iv-the-nightmare-princess-ps4-fpkg/"
+    },
+    {
       "name": "Deeeer Simulator",
       "url": "https://www.superpsx.com/deeeer-simulator-ps4-fpkg/"
     },
@@ -1563,6 +1571,10 @@
     {
       "name": "Disney Epic Mickey Rebrushed",
       "url": "https://www.superpsx.com/disney-epic-mickey-rebrushed-ps4-fpkg/"
+    },
+    {
+      "name": "Disney Pixar Toy Story 3",
+      "url": "https://www.superpsx.com/disney-pixar-toy-story-3-ps4-fpkg/"
     },
     {
       "name": "Divinity Original Sin 2 Definitive Edition",
@@ -1735,6 +1747,10 @@
     {
       "name": "Dungeons Dragons Dark Alliance",
       "url": "https://www.superpsx.com/dungeons-dragons-dark-alliance-ps4-fpkg/"
+    },
+    {
+      "name": "Dungeons Of The Hinterberg",
+      "url": "https://www.superpsx.com/dungeons-of-the-hinterberg-ps4-fpkg/"
     },
     {
       "name": "Dusk Diver",
@@ -3129,6 +3145,10 @@
       "url": "https://www.superpsx.com/left-alive-ps4-fpkg/"
     },
     {
+      "name": "Legacy Of Kain Soul Reaver 1 2 Remastered",
+      "url": "https://www.superpsx.com/legacy-of-kain-soul-reaver-1-2-remastered-ps4-fpkg/"
+    },
+    {
       "name": "Legend Of Mana",
       "url": "https://www.superpsx.com/legend-of-mana-ps4-fpkg/"
     },
@@ -3287,6 +3307,10 @@
     {
       "name": "Little Town Hero",
       "url": "https://www.superpsx.com/little-town-hero-ps4-fpkg/"
+    },
+    {
+      "name": "Little Witch Academia Chamber Of Time",
+      "url": "https://www.superpsx.com/little-witch-academia-chamber-of-time-ps4-fpkg/"
     },
     {
       "name": "Little Witch Academia VR Broom Racing",
@@ -3487,6 +3511,10 @@
     {
       "name": "Mechwarrior 5 Mercenaries",
       "url": "https://www.superpsx.com/mechwarrior-5-mercenaries-ps4-fpkg/"
+    },
+    {
+      "name": "Medievil II",
+      "url": "https://www.superpsx.com/medievil-ii-ps4-fpkg/"
     },
     {
       "name": "Medievil Resurrection",
@@ -4909,6 +4937,10 @@
       "url": "https://www.superpsx.com/sea-of-stars-ps4-fpkg/"
     },
     {
+      "name": "Season A Letter To The Future",
+      "url": "https://www.superpsx.com/season-a-letter-to-the-future-ps4-fpkg/"
+    },
+    {
       "name": "Seasons After Fall",
       "url": "https://www.superpsx.com/seasons-after-fall-ps4-fpkg/"
     },
@@ -6209,6 +6241,10 @@
       "url": "https://www.superpsx.com/the-tales-of-bayun-ps4-fpkg/"
     },
     {
+      "name": "The Thing Remastered",
+      "url": "https://www.superpsx.com/the-thing-remastered-ps4-fpkg/"
+    },
+    {
       "name": "The Treasures Of Montezuma 4",
       "url": "https://www.superpsx.com/the-treasures-of-montezuma-4-ps4-fpkg/"
     },
@@ -6735,6 +6771,10 @@
     {
       "name": "Valiant Hearts Home",
       "url": "https://www.superpsx.com/valiant-hearts-home-ps4-fpkg/"
+    },
+    {
+      "name": "Valkyria Chronicles 4",
+      "url": "https://www.superpsx.com/valkyria-chronicles-4-ps4-fpkg/"
     },
     {
       "name": "Valkyrie Elysium",
