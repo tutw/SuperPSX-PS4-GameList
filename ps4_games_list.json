@@ -2,7 +2,7 @@
   "timestamp": "2025-07-26",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1791,
+  "total_games": 1795,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -389,6 +389,10 @@
       "url": "https://www.superpsx.com/atari-50-the-anniversary-celebration-ps4-fpkg/"
     },
     {
+      "name": "Atelier Escha Logy Alchemists Of The Dusk Sky DX",
+      "url": "https://www.superpsx.com/atelier-escha-logy-alchemists-of-the-dusk-sky-dx-ps4-fpkg/"
+    },
+    {
       "name": "Atelier Marie Remake",
       "url": "https://www.superpsx.com/atelier-marie-remake-ps4-fpkg/"
     },
@@ -403,6 +407,10 @@
     {
       "name": "Atelier Ryza Ever Darkness The Secret Hideout",
       "url": "https://www.superpsx.com/atelier-ryza-ever-darkness-the-secret-hideout-ps4-fpkg/"
+    },
+    {
+      "name": "Atelier Shallie Alchemists Of The Dusk Sea DX",
+      "url": "https://www.superpsx.com/atelier-shallie-alchemists-of-the-dusk-sea-dx-ps4-fpkg/"
     },
     {
       "name": "Atelier Sophie 2",
@@ -1215,6 +1223,10 @@
     {
       "name": "Crow Country",
       "url": "https://www.superpsx.com/crow-country-ps4-fpkg/"
+    },
+    {
+      "name": "Crowns And Pawns Kingdom Of Deceit",
+      "url": "https://www.superpsx.com/crowns-and-pawns-kingdom-of-deceit-ps4-fpkg/"
     },
     {
       "name": "Crysis 2 Remastered",
@@ -5715,6 +5727,10 @@
     {
       "name": "Taiko No Tatsujin Ds",
       "url": "https://www.superpsx.com/taiko-no-tatsujin-ds-ps4-fpkg/"
+    },
+    {
+      "name": "Tails Noir",
+      "url": "https://www.superpsx.com/tails-noir-ps4-fpkg/"
     },
     {
       "name": "Tails Of Iron",
