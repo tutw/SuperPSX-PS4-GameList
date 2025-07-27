@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-26",
+  "timestamp": "2025-07-27",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1795,
+  "total_games": 1796,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -387,6 +387,10 @@
     {
       "name": "Atari 50 The Anniversary Celebration",
       "url": "https://www.superpsx.com/atari-50-the-anniversary-celebration-ps4-fpkg/"
+    },
+    {
+      "name": "Atelier Ayesha The Alchemist Of Dusk DX",
+      "url": "https://www.superpsx.com/atelier-ayesha-the-alchemist-of-dusk-dx-ps4-fpkg/"
     },
     {
       "name": "Atelier Escha Logy Alchemists Of The Dusk Sky DX",
