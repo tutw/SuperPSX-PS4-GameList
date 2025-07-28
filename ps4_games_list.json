@@ -2,7 +2,7 @@
   "timestamp": "2025-07-28",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1796,
+  "total_games": 1801,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -179,6 +179,10 @@
     {
       "name": "Alex Kidd In Miracle World DX",
       "url": "https://www.superpsx.com/alex-kidd-in-miracle-world-dx-ps4-fpkg/"
+    },
+    {
+      "name": "Alfred Hitchcock Vertigo",
+      "url": "https://www.superpsx.com/alfred-hitchcock-vertigo-ps4-fpkg/"
     },
     {
       "name": "Alice Gear Aegis Cs Concerto Of Simulatrix",
@@ -1049,6 +1053,10 @@
       "url": "https://www.superpsx.com/clockwork-aquario-ps4-fpkg/"
     },
     {
+      "name": "Clockwork Tower Rewind",
+      "url": "https://www.superpsx.com/clockwork-tower-rewind-ps4-fpkg/"
+    },
+    {
       "name": "Close To The Sun",
       "url": "https://www.superpsx.com/close-to-the-sun-ps4-fpkg/"
     },
@@ -1231,6 +1239,10 @@
     {
       "name": "Crowns And Pawns Kingdom Of Deceit",
       "url": "https://www.superpsx.com/crowns-and-pawns-kingdom-of-deceit-ps4-fpkg/"
+    },
+    {
+      "name": "Crymachina",
+      "url": "https://www.superpsx.com/crymachina-ps4-fpkg/"
     },
     {
       "name": "Crysis 2 Remastered",
@@ -6001,8 +6013,16 @@
       "url": "https://www.superpsx.com/the-evil-within-complete-edition-ps4-fpkg/"
     },
     {
+      "name": "The Exit 8",
+      "url": "https://www.superpsx.com/the-exit-8-ps4-fpkg/"
+    },
+    {
       "name": "The Exit Liminal Anomaly Horror",
       "url": "https://www.superpsx.com/the-exit-liminal-anomaly-horror-ps4-fpkg/"
+    },
+    {
+      "name": "The Expanse A Telltale Series",
+      "url": "https://www.superpsx.com/the-expanse-a-telltale-series-ps4-fpkg/"
     },
     {
       "name": "The Falconeer Warrior Edition",
