@@ -2,7 +2,7 @@
   "timestamp": "2025-07-29",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1801,
+  "total_games": 1803,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2853,6 +2853,10 @@
       "url": "https://www.superpsx.com/incredible-adventures-of-van-helsing-2-ps4-fpkg/"
     },
     {
+      "name": "Indiecalypse",
+      "url": "https://www.superpsx.com/indiecalypse-ps4-fpkg/"
+    },
+    {
       "name": "Indivisible",
       "url": "https://www.superpsx.com/indivisible-ps4-fpkg/"
     },
@@ -5143,6 +5147,10 @@
     {
       "name": "Siren",
       "url": "https://www.superpsx.com/siren-ps4-fpkg/"
+    },
+    {
+      "name": "Skabma Snowfall",
+      "url": "https://www.superpsx.com/skabma-snowfall-ps4-fpkg/"
     },
     {
       "name": "Skater XL",
