@@ -2,7 +2,7 @@
   "timestamp": "2025-07-30",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1803,
+  "total_games": 1805,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3673,6 +3673,10 @@
       "url": "https://www.superpsx.com/mlb-the-show-24-ps4-fpkg/"
     },
     {
+      "name": "Mobile Suit Gundam Battle Operation Code Fairy",
+      "url": "https://www.superpsx.com/mobile-suit-gundam-battle-operation-code-fairy-ps4-fpkg/"
+    },
+    {
       "name": "Modern Warfare",
       "url": "https://www.superpsx.com/modern-warfare-ps4-fpkg/"
     },
@@ -6839,6 +6843,10 @@
     {
       "name": "Vampire Masquerade Swansong",
       "url": "https://www.superpsx.com/vampire-masquerade-swansong-ps4-fpkg/"
+    },
+    {
+      "name": "Vampire Survivors",
+      "url": "https://www.superpsx.com/vampire-survivors-ps4-fpkg/"
     },
     {
       "name": "Vampire The Masquerade Coteries Of New York",
