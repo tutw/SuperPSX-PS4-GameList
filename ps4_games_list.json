@@ -2,7 +2,7 @@
   "timestamp": "2025-07-31",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1807,
+  "total_games": 1386,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -29,14 +29,6 @@
       "url": "https://www.superpsx.com/35mm-ps4-fpkg/"
     },
     {
-      "name": "3D Dont Die Mr Robot",
-      "url": "https://www.superpsx.com/3d-dont-die-mr-robot-ps4-fpkg/"
-    },
-    {
-      "name": "7Th Sector",
-      "url": "https://www.superpsx.com/7th-sector-ps4-fpkg/"
-    },
-    {
       "name": "8 Bit Armies",
       "url": "https://www.superpsx.com/8-bit-armies-ps4-fpkg/"
     },
@@ -57,16 +49,8 @@
       "url": "https://www.superpsx.com/9th-dawn-3-shadow-of-erthil-ps4-fpkg/"
     },
     {
-      "name": "A Hat In Time",
-      "url": "https://www.superpsx.com/a-hat-in-time-ps4-fpkg/"
-    },
-    {
       "name": "A Knights Quest",
       "url": "https://www.superpsx.com/a-knights-quest-ps4-fpkg/"
-    },
-    {
-      "name": "A Monsters Expedition",
-      "url": "https://www.superpsx.com/a-monsters-expedition-ps4-fpkg/"
     },
     {
       "name": "A Pixel Story",
@@ -121,10 +105,6 @@
       "url": "https://www.superpsx.com/adore-ps4-fpkg/"
     },
     {
-      "name": "Adr1Ft",
-      "url": "https://www.superpsx.com/adr1ft-ps4-fpkg/"
-    },
-    {
       "name": "Adventures Of Chris",
       "url": "https://www.superpsx.com/adventures-of-chris-ps4-fpkg/"
     },
@@ -133,16 +113,8 @@
       "url": "https://www.superpsx.com/aeterna-noctis-ps4-fpkg/"
     },
     {
-      "name": "Aeternoblade 2",
-      "url": "https://www.superpsx.com/aeternoblade-2-ps4-fpkg/"
-    },
-    {
       "name": "Aew Fight Forever",
       "url": "https://www.superpsx.com/aew-fight-forever-ps4-fpkg/"
-    },
-    {
-      "name": "After The Fall",
-      "url": "https://www.superpsx.com/after-the-fall-ps4-fpkg/"
     },
     {
       "name": "Afterimage",
@@ -151,10 +123,6 @@
     {
       "name": "Agatha Christie",
       "url": "https://www.superpsx.com/agatha-christie-ps4-fpkg/"
-    },
-    {
-      "name": "Agatha Christie The Abc Murders",
-      "url": "https://www.superpsx.com/agatha-christie-the-abc-murders-ps4-fpkg/"
     },
     {
       "name": "Agents Of Mayhem",
@@ -167,10 +135,6 @@
     {
       "name": "Akibas Beat",
       "url": "https://www.superpsx.com/akibas-beat-ps4-fpkg/"
-    },
-    {
-      "name": "Alan Wake Remastered",
-      "url": "https://www.superpsx.com/alan-wake-remastered-ps4-fpkg/"
     },
     {
       "name": "Aleste Collection",
@@ -187,14 +151,6 @@
     {
       "name": "Alice Gear Aegis Cs Concerto Of Simulatrix",
       "url": "https://www.superpsx.com/alice-gear-aegis-cs-concerto-of-simulatrix-ps4-fpkg/"
-    },
-    {
-      "name": "Alienation",
-      "url": "https://www.superpsx.com/alienation-ps4-fpkg/"
-    },
-    {
-      "name": "Aliens Dark Descent",
-      "url": "https://www.superpsx.com/aliens-dark-descent-ps4-fpkg/"
     },
     {
       "name": "Aliens Fireteam Elite",
@@ -215,10 +171,6 @@
     {
       "name": "Alpine Simulation",
       "url": "https://www.superpsx.com/alpine-simulation-ps4-fpkg/"
-    },
-    {
-      "name": "Alwas Legacy",
-      "url": "https://www.superpsx.com/alwas-legacy-ps4-fpkg/"
     },
     {
       "name": "Always Sometimes Monsters",
@@ -269,44 +221,12 @@
       "url": "https://www.superpsx.com/ao-tennis-2-ps4-fpkg/"
     },
     {
-      "name": "Apex Construct",
-      "url": "https://www.superpsx.com/apex-construct-ps4-fpkg/"
-    },
-    {
-      "name": "Apollo Justice Ace Attorney Trilogy",
-      "url": "https://www.superpsx.com/apollo-justice-ace-attorney-trilogy-ps4-fpkg/"
-    },
-    {
-      "name": "Apotheon",
-      "url": "https://www.superpsx.com/apotheon-ps4-fpkg/"
-    },
-    {
       "name": "Apsulov End Of Gods",
       "url": "https://www.superpsx.com/apsulov-end-of-gods-ps4-fpkg/"
     },
     {
-      "name": "Aragami",
-      "url": "https://www.superpsx.com/aragami-ps4-fpkg/"
-    },
-    {
-      "name": "Aragami 2",
-      "url": "https://www.superpsx.com/aragami-2-ps4-fpkg/"
-    },
-    {
-      "name": "Arashi Castles Of Sin",
-      "url": "https://www.superpsx.com/arashi-castles-of-sin-ps4-fpkg/"
-    },
-    {
       "name": "Arcade Game Series Galaga",
       "url": "https://www.superpsx.com/arcade-game-series-galaga-ps4-fpkg/"
-    },
-    {
-      "name": "Arcade Paradise",
-      "url": "https://www.superpsx.com/arcade-paradise-ps4-fpkg/"
-    },
-    {
-      "name": "Arcadegeddon",
-      "url": "https://www.superpsx.com/arcadegeddon-ps4-fpkg/"
     },
     {
       "name": "Archangel",
@@ -315,10 +235,6 @@
     {
       "name": "Arise A Simple Story",
       "url": "https://www.superpsx.com/arise-a-simple-story-ps4-fpkg/"
-    },
-    {
-      "name": "Arizona Sunshine",
-      "url": "https://www.superpsx.com/arizona-sunshine-ps4-fpkg/"
     },
     {
       "name": "Ark Ultimate Survivor",
@@ -333,20 +249,12 @@
       "url": "https://www.superpsx.com/arkham-horror-mothers-embrace-ps4-fpkg/"
     },
     {
-      "name": "Armello",
-      "url": "https://www.superpsx.com/armello-ps4-fpkg/"
-    },
-    {
       "name": "Armikrog",
       "url": "https://www.superpsx.com/armikrog-ps4-fpkg/"
     },
     {
       "name": "Art Of Balance",
       "url": "https://www.superpsx.com/art-of-balance-ps4-fpkg/"
-    },
-    {
-      "name": "Ash Of Gods Redemption",
-      "url": "https://www.superpsx.com/ash-of-gods-redemption-ps4-fpkg/"
     },
     {
       "name": "Assassins Creed Mirage",
@@ -369,10 +277,6 @@
       "url": "https://www.superpsx.com/assetto-corsa-competizione-ps4-fpkg/"
     },
     {
-      "name": "Asterigos Curse Of The Stars",
-      "url": "https://www.superpsx.com/asterigos-curse-of-the-stars-ps4-fpkg/"
-    },
-    {
       "name": "Asterix And Obelix Slap Them All",
       "url": "https://www.superpsx.com/asterix-and-obelix-slap-them-all-ps4-fpkg/"
     },
@@ -383,14 +287,6 @@
     {
       "name": "Astro Bot Rescue Mission",
       "url": "https://www.superpsx.com/astro-bot-rescue-mission-ps4-fpkg/"
-    },
-    {
-      "name": "Astroneer",
-      "url": "https://www.superpsx.com/astroneer-ps4-fpkg/"
-    },
-    {
-      "name": "Atari 50 The Anniversary Celebration",
-      "url": "https://www.superpsx.com/atari-50-the-anniversary-celebration-ps4-fpkg/"
     },
     {
       "name": "Atelier Ayesha The Alchemist Of Dusk DX",
@@ -405,40 +301,12 @@
       "url": "https://www.superpsx.com/atelier-marie-remake-ps4-fpkg/"
     },
     {
-      "name": "Atelier Ryza 2",
-      "url": "https://www.superpsx.com/atelier-ryza-2-ps4-fpkg/"
-    },
-    {
-      "name": "Atelier Ryza 3 Alchemist Of The End The Secret Key",
-      "url": "https://www.superpsx.com/atelier-ryza-3-alchemist-of-the-end-the-secret-key-ps4-fpkg/"
-    },
-    {
-      "name": "Atelier Ryza Ever Darkness The Secret Hideout",
-      "url": "https://www.superpsx.com/atelier-ryza-ever-darkness-the-secret-hideout-ps4-fpkg/"
-    },
-    {
       "name": "Atelier Shallie Alchemists Of The Dusk Sea DX",
       "url": "https://www.superpsx.com/atelier-shallie-alchemists-of-the-dusk-sea-dx-ps4-fpkg/"
     },
     {
       "name": "Atelier Sophie 2",
       "url": "https://www.superpsx.com/atelier-sophie-2-ps4-fpkg/"
-    },
-    {
-      "name": "Atelier Yumia The Alchemist Of Memories The Envisioned Land",
-      "url": "https://www.superpsx.com/atelier-yumia-the-alchemist-of-memories-the-envisioned-land-ps4-fpkg/"
-    },
-    {
-      "name": "Atomfall Deluxe Edition",
-      "url": "https://www.superpsx.com/atomfall-deluxe-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Atomic Heart Premium Edition",
-      "url": "https://www.superpsx.com/atomic-heart-premium-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Atsf Nirvana Initiative",
-      "url": "https://www.superpsx.com/atsf-nirvana-initiative-ps4-fpkg/"
     },
     {
       "name": "Attack On Titan 2",
@@ -461,10 +329,6 @@
       "url": "https://www.superpsx.com/autobahn-police-simulator-2-ps4-fpkg/"
     },
     {
-      "name": "Autobahn Police Simulator 3",
-      "url": "https://www.superpsx.com/autobahn-police-simulator-3-ps4-fpkg/"
-    },
-    {
       "name": "Autonauts",
       "url": "https://www.superpsx.com/autonauts-ps4-fpkg/"
     },
@@ -477,10 +341,6 @@
       "url": "https://www.superpsx.com/avicii-invector-ps4-fpkg/"
     },
     {
-      "name": "Azur Lane Crosswave",
-      "url": "https://www.superpsx.com/azur-lane-crosswave-ps4-fpkg/"
-    },
-    {
       "name": "Baby Shark Sing Swim Party",
       "url": "https://www.superpsx.com/baby-shark-sing-swim-party-ps4-fpkg/"
     },
@@ -489,16 +349,8 @@
       "url": "https://www.superpsx.com/back-4-blood-ps4-fpkg/"
     },
     {
-      "name": "Backpack Hero",
-      "url": "https://www.superpsx.com/backpack-hero-ps4-fpkg/"
-    },
-    {
       "name": "Bad North",
       "url": "https://www.superpsx.com/bad-north-ps4-fpkg/"
-    },
-    {
-      "name": "Badland",
-      "url": "https://www.superpsx.com/badland-ps4-fpkg/"
     },
     {
       "name": "Balan Wonderworld",
@@ -553,24 +405,12 @@
       "url": "https://www.superpsx.com/beast-quest-ps4-fpkg/"
     },
     {
-      "name": "Beat Saber",
-      "url": "https://www.superpsx.com/beat-saber-ps4-fpkg/"
-    },
-    {
       "name": "Beats Fever",
       "url": "https://www.superpsx.com/beats-fever-ps4-fpkg/"
     },
     {
       "name": "Beautiful Desolation",
       "url": "https://www.superpsx.com/beautiful-desolation-ps4-fpkg/"
-    },
-    {
-      "name": "Behind The Frame The Finest Scenery",
-      "url": "https://www.superpsx.com/behind-the-frame-the-finest-scenery-ps4-fpkg/"
-    },
-    {
-      "name": "Beholder Complete Edition",
-      "url": "https://www.superpsx.com/beholder-complete-edition-ps4-fpkg/"
     },
     {
       "name": "Beholgar",
@@ -583,14 +423,6 @@
     {
       "name": "Bendy And The Dark Revival",
       "url": "https://www.superpsx.com/bendy-and-the-dark-revival-ps4-fpkg/"
-    },
-    {
-      "name": "Beyond A Steel Sky",
-      "url": "https://www.superpsx.com/beyond-a-steel-sky-ps4-fpkg/"
-    },
-    {
-      "name": "Beyond Galaxyland",
-      "url": "https://www.superpsx.com/beyond-galaxyland-ps4-fpkg/"
     },
     {
       "name": "Beyond Good Evil 20 Anniversary",
@@ -629,14 +461,6 @@
       "url": "https://www.superpsx.com/black-clover-quartet-knights-ps4-fpkg/"
     },
     {
-      "name": "Black Ops Cold War",
-      "url": "https://www.superpsx.com/black-ops-cold-war-ps4-fpkg/"
-    },
-    {
-      "name": "Black Skylands",
-      "url": "https://www.superpsx.com/black-skylands-ps4-fpkg/"
-    },
-    {
       "name": "Black The Fall",
       "url": "https://www.superpsx.com/black-the-fall-ps4-fpkg/"
     },
@@ -653,10 +477,6 @@
       "url": "https://www.superpsx.com/blade-strangers-ps4-fpkg/"
     },
     {
-      "name": "Bladed Fury",
-      "url": "https://www.superpsx.com/bladed-fury-ps4-fpkg/"
-    },
-    {
       "name": "Blair Witch",
       "url": "https://www.superpsx.com/blair-witch-ps4-fpkg/"
     },
@@ -667,14 +487,6 @@
     {
       "name": "Blaster Master Zero Trilogy",
       "url": "https://www.superpsx.com/blaster-master-zero-trilogy-ps4-fpkg/"
-    },
-    {
-      "name": "Blazblue Central Fiction",
-      "url": "https://www.superpsx.com/blazblue-central-fiction-ps4-fpkg/"
-    },
-    {
-      "name": "Blazblue Chrono Phantasma",
-      "url": "https://www.superpsx.com/blazblue-chrono-phantasma-ps4-fpkg/"
     },
     {
       "name": "Blaze Monster Machines Acr",
@@ -689,24 +501,12 @@
       "url": "https://www.superpsx.com/blazing-strike-ps4-fpkg/"
     },
     {
-      "name": "Bleach Rebirth Of Souls Ultimate Edition",
-      "url": "https://www.superpsx.com/bleach-rebirth-of-souls-ultimate-edition-ps4-fpkg/"
-    },
-    {
       "name": "Bleed 2",
       "url": "https://www.superpsx.com/bleed-2-ps4-fpkg/"
     },
     {
-      "name": "Blizzard Arcade Collection",
-      "url": "https://www.superpsx.com/blizzard-arcade-collection-ps4-fpkg/"
-    },
-    {
       "name": "Blood And Truth VR",
       "url": "https://www.superpsx.com/blood-and-truth-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Blood Bowl 3",
-      "url": "https://www.superpsx.com/blood-bowl-3-ps4-fpkg/"
     },
     {
       "name": "Bloodrayne 2 Revamped",
@@ -725,10 +525,6 @@
       "url": "https://www.superpsx.com/bloodstained-ritual-of-the-night-ps4-fpkg/"
     },
     {
-      "name": "Bloody Zombies",
-      "url": "https://www.superpsx.com/bloody-zombies-ps4-fpkg/"
-    },
-    {
       "name": "Bloons Td 5",
       "url": "https://www.superpsx.com/bloons-td-5-ps4-fpkg/"
     },
@@ -745,20 +541,8 @@
       "url": "https://www.superpsx.com/bluey-the-videogame-ps4-fpkg/"
     },
     {
-      "name": "Bomb Rush Cyberfunk",
-      "url": "https://www.superpsx.com/bomb-rush-cyberfunk-ps4-fpkg/"
-    },
-    {
-      "name": "Bomber Crew Deluxe Edition",
-      "url": "https://www.superpsx.com/bomber-crew-deluxe-edition-ps4-fpkg/"
-    },
-    {
       "name": "Bombing Bastards",
       "url": "https://www.superpsx.com/bombing-bastards-ps4-fpkg/"
-    },
-    {
-      "name": "Bonfire Peaks Complete Edition",
-      "url": "https://www.superpsx.com/bonfire-peaks-complete-edition-ps4-fpkg/"
     },
     {
       "name": "Boomerang Fu",
@@ -767,10 +551,6 @@
     {
       "name": "Borderlands 2 VR",
       "url": "https://www.superpsx.com/borderlands-2-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Borderlands 3",
-      "url": "https://www.superpsx.com/borderlands-3-ps4-fpkg/"
     },
     {
       "name": "Borderlands Game Of The Year Edition",
@@ -789,14 +569,6 @@
       "url": "https://www.superpsx.com/bramble-the-mountain-king-ps4-fpkg/"
     },
     {
-      "name": "Bratz Flaunt Your Fashion",
-      "url": "https://www.superpsx.com/bratz-flaunt-your-fashion-ps4-fpkg/"
-    },
-    {
-      "name": "Bravo Team VR",
-      "url": "https://www.superpsx.com/bravo-team-vr-ps4-fpkg/"
-    },
-    {
       "name": "Brawlout",
       "url": "https://www.superpsx.com/brawlout-ps4-fpkg/"
     },
@@ -811,14 +583,6 @@
     {
       "name": "Broforce",
       "url": "https://www.superpsx.com/broforce-ps4-fpkg/"
-    },
-    {
-      "name": "Brok The Investigator",
-      "url": "https://www.superpsx.com/brok-the-investigator-ps4-fpkg/"
-    },
-    {
-      "name": "Broken Pieces",
-      "url": "https://www.superpsx.com/broken-pieces-ps4-fpkg/"
     },
     {
       "name": "Brothers A Tale Of Two Sons",
@@ -859,10 +623,6 @@
     {
       "name": "Cake Bash",
       "url": "https://www.superpsx.com/cake-bash-ps4-fpkg/"
-    },
-    {
-      "name": "Call Of Cthulhu",
-      "url": "https://www.superpsx.com/call-of-cthulhu-ps4-fpkg/"
     },
     {
       "name": "Call Of Duty Black Ops 3",
@@ -929,10 +689,6 @@
       "url": "https://www.superpsx.com/carrion-ps4-fpkg/"
     },
     {
-      "name": "Carto",
-      "url": "https://www.superpsx.com/carto-ps4-fpkg/"
-    },
-    {
       "name": "Castle Crashers Remastered",
       "url": "https://www.superpsx.com/castle-crashers-remastered-ps4-fpkg/"
     },
@@ -951,10 +707,6 @@
     {
       "name": "Cat Quest",
       "url": "https://www.superpsx.com/cat-quest-ps4-fpkg/"
-    },
-    {
-      "name": "Cat Quest 2",
-      "url": "https://www.superpsx.com/cat-quest-2-ps4-fpkg/"
     },
     {
       "name": "Catan Console Edition",
@@ -985,16 +737,8 @@
       "url": "https://www.superpsx.com/celeste-ps4-fpkg/"
     },
     {
-      "name": "Chained Echoes",
-      "url": "https://www.superpsx.com/chained-echoes-ps4-fpkg/"
-    },
-    {
       "name": "Chaos Code New Sign Of Catastrophe",
       "url": "https://www.superpsx.com/chaos-code-new-sign-of-catastrophe-ps4-fpkg/"
-    },
-    {
-      "name": "Chaos On Deponia",
-      "url": "https://www.superpsx.com/chaos-on-deponia-ps4-fpkg/"
     },
     {
       "name": "Chariot",
@@ -1003,10 +747,6 @@
     {
       "name": "Chasm",
       "url": "https://www.superpsx.com/chasm-ps4-fpkg/"
-    },
-    {
-      "name": "Chef Life A Restaurant",
-      "url": "https://www.superpsx.com/chef-life-a-restaurant-ps4-fpkg/"
     },
     {
       "name": "Chernobylite",
@@ -1033,28 +773,12 @@
       "url": "https://www.superpsx.com/citadel-forged-with-fire-ps4-fpkg/"
     },
     {
-      "name": "Cities Skylines",
-      "url": "https://www.superpsx.com/cities-skylines-ps4-fpkg/"
-    },
-    {
-      "name": "Citizen Sleeper",
-      "url": "https://www.superpsx.com/citizen-sleeper-ps4-fpkg/"
-    },
-    {
       "name": "Claire Extended Cut",
       "url": "https://www.superpsx.com/claire-extended-cut-ps4-fpkg/"
     },
     {
-      "name": "Clash Artifacts Of Chaos Zeno Edition",
-      "url": "https://www.superpsx.com/clash-artifacts-of-chaos-zeno-edition-ps4-fpkg/"
-    },
-    {
       "name": "Clid The Snail",
       "url": "https://www.superpsx.com/clid-the-snail-ps4-fpkg/"
-    },
-    {
-      "name": "Clockwork Aquario",
-      "url": "https://www.superpsx.com/clockwork-aquario-ps4-fpkg/"
     },
     {
       "name": "Clockwork Tower Rewind",
@@ -1081,10 +805,6 @@
       "url": "https://www.superpsx.com/cocoon-ps4-fpkg/"
     },
     {
-      "name": "Code Vein",
-      "url": "https://www.superpsx.com/code-vein-ps4-fpkg/"
-    },
-    {
       "name": "Coffee Talk",
       "url": "https://www.superpsx.com/coffee-talk-ps4-fpkg/"
     },
@@ -1097,16 +817,8 @@
       "url": "https://www.superpsx.com/coffin-dodgers-ps4-fpkg/"
     },
     {
-      "name": "Cola Riders",
-      "url": "https://www.superpsx.com/cola-riders-ps4-fpkg/"
-    },
-    {
       "name": "Commandos 2 HD Remaster",
       "url": "https://www.superpsx.com/commandos-2-hd-remaster-ps4-fpkg/"
-    },
-    {
-      "name": "Commandos 3 HD Remaster",
-      "url": "https://www.superpsx.com/commandos-3-hd-remaster-ps4-fpkg/"
     },
     {
       "name": "Conan Chop Chop",
@@ -1127,10 +839,6 @@
     {
       "name": "Construction Simulator",
       "url": "https://www.superpsx.com/construction-simulator-ps4-fpkg/"
-    },
-    {
-      "name": "Contagion VR Outbreak",
-      "url": "https://www.superpsx.com/contagion-vr-outbreak-ps4-fpkg/"
     },
     {
       "name": "Contra Operation Galuga",
@@ -1179,14 +887,6 @@
     {
       "name": "Crash Team Racing Nitro Fueled",
       "url": "https://www.superpsx.com/crash-team-racing-nitro-fueled-ps4-fpkg/"
-    },
-    {
-      "name": "Crawl",
-      "url": "https://www.superpsx.com/crawl-ps4-fpkg/"
-    },
-    {
-      "name": "Crayola Scoot",
-      "url": "https://www.superpsx.com/crayola-scoot-ps4-fpkg/"
     },
     {
       "name": "Creaks",
@@ -1269,20 +969,12 @@
       "url": "https://www.superpsx.com/cult-of-the-lamb-ps4-fpkg/"
     },
     {
-      "name": "Cuphead",
-      "url": "https://www.superpsx.com/cuphead-ps4-fpkg/"
-    },
-    {
       "name": "Curse Of The Dead Gods",
       "url": "https://www.superpsx.com/curse-of-the-dead-gods-ps4-fpkg/"
     },
     {
       "name": "Curse Of The Sea Rats",
       "url": "https://www.superpsx.com/curse-of-the-sea-rats-ps4-fpkg/"
-    },
-    {
-      "name": "Cursed To Golf",
-      "url": "https://www.superpsx.com/cursed-to-golf-ps4-fpkg/"
     },
     {
       "name": "Curved Space",
@@ -1293,24 +985,12 @@
       "url": "https://www.superpsx.com/cyber-shadow-ps4-fpkg/"
     },
     {
-      "name": "Cybertd",
-      "url": "https://www.superpsx.com/cybertd-ps4-fpkg/"
-    },
-    {
       "name": "Dakar Desert Rally",
       "url": "https://www.superpsx.com/dakar-desert-rally-ps4-fpkg/"
     },
     {
-      "name": "Danganronpa Another Episode",
-      "url": "https://www.superpsx.com/danganronpa-another-episode-ps4-fpkg/"
-    },
-    {
       "name": "Danganronpa S Ultimate Summer Camp",
       "url": "https://www.superpsx.com/danganronpa-s-ultimate-summer-camp-ps4-fpkg/"
-    },
-    {
-      "name": "Danganronpa V3 Killing Harmony",
-      "url": "https://www.superpsx.com/danganronpa-v3-killing-harmony-ps4-fpkg/"
     },
     {
       "name": "Danger Zone",
@@ -1329,16 +1009,8 @@
       "url": "https://www.superpsx.com/dark-cloud-2-ps4-fpkg/"
     },
     {
-      "name": "Dark Pictures Anthology Little Hope",
-      "url": "https://www.superpsx.com/dark-pictures-anthology-little-hope-ps4-fpkg/"
-    },
-    {
       "name": "Dark Quest 2",
       "url": "https://www.superpsx.com/dark-quest-2-ps4-fpkg/"
-    },
-    {
-      "name": "Dark Souls 2 Scholar Of The First Sin",
-      "url": "https://www.superpsx.com/dark-souls-2-scholar-of-the-first-sin-ps4-fpkg/"
     },
     {
       "name": "Dark Souls Remastered",
@@ -1369,24 +1041,12 @@
       "url": "https://www.superpsx.com/darkwood-ps4-fpkg/"
     },
     {
-      "name": "Dave The Diver",
-      "url": "https://www.superpsx.com/dave-the-diver-ps4-fpkg/"
-    },
-    {
       "name": "Dawn Of The Monsters Arcade Edition",
       "url": "https://www.superpsx.com/dawn-of-the-monsters-arcade-edition-ps4-fpkg/"
     },
     {
       "name": "Day Of The Tentacle Remastered",
       "url": "https://www.superpsx.com/day-of-the-tentacle-remastered-ps4-fpkg/"
-    },
-    {
-      "name": "Daymare 1994 Sandcastle",
-      "url": "https://www.superpsx.com/daymare-1994-sandcastle-ps4-fpkg/"
-    },
-    {
-      "name": "Daymare 1998",
-      "url": "https://www.superpsx.com/daymare-1998-ps4-fpkg/"
     },
     {
       "name": "Dcl The Game",
@@ -1397,24 +1057,12 @@
       "url": "https://www.superpsx.com/ddlotnr-ps4-fpkg/"
     },
     {
-      "name": "De Exit Eternal Matters",
-      "url": "https://www.superpsx.com/de-exit-eternal-matters-ps4-fpkg/"
-    },
-    {
-      "name": "Dead Cells",
-      "url": "https://www.superpsx.com/dead-cells-ps4-fpkg/"
-    },
-    {
       "name": "Dead Island 2 Gold Edition",
       "url": "https://www.superpsx.com/dead-island-2-gold-edition-ps4-fpkg/"
     },
     {
       "name": "Dead Island Retro Revenge",
       "url": "https://www.superpsx.com/dead-island-retro-revenge-ps4-fpkg/"
-    },
-    {
-      "name": "Dead Nation Apocalypse Edition",
-      "url": "https://www.superpsx.com/dead-nation-apocalypse-edition-ps4-fpkg/"
     },
     {
       "name": "Dead Or Alive 5 Last Round",
@@ -1433,14 +1081,6 @@
       "url": "https://www.superpsx.com/dead-rising-4-franks-big-package-ps4-fpkg/"
     },
     {
-      "name": "Deadbolt",
-      "url": "https://www.superpsx.com/deadbolt-ps4-fpkg/"
-    },
-    {
-      "name": "Deadlight Directors Cut",
-      "url": "https://www.superpsx.com/deadlight-directors-cut-ps4-fpkg/"
-    },
-    {
       "name": "Deadpool",
       "url": "https://www.superpsx.com/deadpool-ps4-fpkg/"
     },
@@ -1451,10 +1091,6 @@
     {
       "name": "Death End Re Quest Code Z",
       "url": "https://www.superpsx.com/death-end-re-quest-code-z-ps4-fpkg/"
-    },
-    {
-      "name": "Death Stranding",
-      "url": "https://www.superpsx.com/death-stranding-ps4-fpkg/"
     },
     {
       "name": "Deaths Door",
@@ -1471,10 +1107,6 @@
     {
       "name": "Deeeer Simulator",
       "url": "https://www.superpsx.com/deeeer-simulator-ps4-fpkg/"
-    },
-    {
-      "name": "Deep Rock Galactic Ultimate Edition",
-      "url": "https://www.superpsx.com/deep-rock-galactic-ultimate-edition-ps4-fpkg/"
     },
     {
       "name": "Deliver Us Mars",
@@ -1501,64 +1133,20 @@
       "url": "https://www.superpsx.com/demons-tier-plus-ps4-fpkg/"
     },
     {
-      "name": "Desperados 3",
-      "url": "https://www.superpsx.com/desperados-3-ps4-fpkg/"
-    },
-    {
-      "name": "Desperate Vladivostok VR",
-      "url": "https://www.superpsx.com/desperate-vladivostok-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Despots Game",
-      "url": "https://www.superpsx.com/despots-game-ps4-fpkg/"
-    },
-    {
-      "name": "Destroy All Humans 2",
-      "url": "https://www.superpsx.com/destroy-all-humans-2-ps4-fpkg/"
-    },
-    {
-      "name": "Destroy All Humans 2 Reprobed",
-      "url": "https://www.superpsx.com/destroy-all-humans-2-reprobed-ps4-fpkg/"
-    },
-    {
-      "name": "Destroy All Humans 2020",
-      "url": "https://www.superpsx.com/destroy-all-humans-2020-ps4-fpkg/"
-    },
-    {
-      "name": "Destroy All Humans Clone Carnage",
-      "url": "https://www.superpsx.com/destroy-all-humans-clone-carnage-ps4-fpkg/"
-    },
-    {
-      "name": "Detention",
-      "url": "https://www.superpsx.com/detention-ps4-fpkg/"
-    },
-    {
-      "name": "Devil May Cry 4 Special Edition",
-      "url": "https://www.superpsx.com/devil-may-cry-4-special-edition-ps4-fpkg/"
-    },
-    {
       "name": "Diablo 2 Resurrected",
       "url": "https://www.superpsx.com/diablo-2-resurrected-ps4-fpkg/"
     },
     {
-      "name": "Digimon Survive",
-      "url": "https://www.superpsx.com/digimon-survive-ps4-fpkg/"
+      "name": "Dino Crisis",
+      "url": "https://www.superpsx.com/dino-crisis-ps4-fpkg/"
     },
     {
       "name": "Dinosaurs Mission Dino Camp",
       "url": "https://www.superpsx.com/dinosaurs-mission-dino-camp-ps4-fpkg/"
     },
     {
-      "name": "Dirt 4",
-      "url": "https://www.superpsx.com/dirt-4-ps4-fpkg/"
-    },
-    {
       "name": "Dirt 5",
       "url": "https://www.superpsx.com/dirt-5-ps4-fpkg/"
-    },
-    {
-      "name": "Dirt Rally 2 0",
-      "url": "https://www.superpsx.com/dirt-rally-2-0-ps4-fpkg/"
     },
     {
       "name": "Disaster Report 4",
@@ -1569,10 +1157,6 @@
       "url": "https://www.superpsx.com/disciples-liberation-ps4-fpkg/"
     },
     {
-      "name": "Disco Elysium",
-      "url": "https://www.superpsx.com/disco-elysium-ps4-fpkg/"
-    },
-    {
       "name": "Disgaea 5 Alliance Of Vengeance",
       "url": "https://www.superpsx.com/disgaea-5-alliance-of-vengeance-ps4-fpkg/"
     },
@@ -1581,20 +1165,12 @@
       "url": "https://www.superpsx.com/disgaea-6-complete-ps4-fpkg/"
     },
     {
-      "name": "Disgaea 7 Complete Edition",
-      "url": "https://www.superpsx.com/disgaea-7-complete-edition-ps4-fpkg/"
-    },
-    {
       "name": "Dishonored 2",
       "url": "https://www.superpsx.com/dishonored-2-ps4-fpkg/"
     },
     {
       "name": "Dishonored Death Of The Outsider",
       "url": "https://www.superpsx.com/dishonored-death-of-the-outsider-ps4-fpkg/"
-    },
-    {
-      "name": "Dishonored Definitive Edition",
-      "url": "https://www.superpsx.com/dishonored-definitive-edition-ps4-fpkg/"
     },
     {
       "name": "Disney Dreamlight Valley",
@@ -1611,10 +1187,6 @@
     {
       "name": "Divinity Original Sin 2 Definitive Edition",
       "url": "https://www.superpsx.com/divinity-original-sin-2-definitive-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Divinity Original Sin Enhanced Edition",
-      "url": "https://www.superpsx.com/divinity-original-sin-enhanced-edition-ps4-fpkg/"
     },
     {
       "name": "Djmax Respect",
@@ -1649,10 +1221,6 @@
       "url": "https://www.superpsx.com/doki-doki-literature-club-ps4-fpkg/"
     },
     {
-      "name": "Dollhouse",
-      "url": "https://www.superpsx.com/dollhouse-ps4-fpkg/"
-    },
-    {
       "name": "Dolmen",
       "url": "https://www.superpsx.com/dolmen-ps4-fpkg/"
     },
@@ -1661,20 +1229,8 @@
       "url": "https://www.superpsx.com/don-bradman-cricket-17-ps4-fpkg/"
     },
     {
-      "name": "Dont Knock Twice",
-      "url": "https://www.superpsx.com/dont-knock-twice-ps4-fpkg/"
-    },
-    {
-      "name": "Dont Starve Together Console Edition",
-      "url": "https://www.superpsx.com/dont-starve-together-console-edition-ps4-fpkg/"
-    },
-    {
       "name": "Doom 3 VR Edition",
       "url": "https://www.superpsx.com/doom-3-vr-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Doom Eternal",
-      "url": "https://www.superpsx.com/doom-eternal-ps4-fpkg/"
     },
     {
       "name": "Door Kickers Action Squad",
@@ -1697,30 +1253,6 @@
       "url": "https://www.superpsx.com/draculas-legacy-ps4-fpkg/"
     },
     {
-      "name": "Dragon Ball Fighterz",
-      "url": "https://www.superpsx.com/dragon-ball-fighterz-ps4-fpkg/"
-    },
-    {
-      "name": "Dragon Ball Xenoverse 2 Deluxe Edition",
-      "url": "https://www.superpsx.com/dragon-ball-xenoverse-2-deluxe-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Dragon Ball Z Kakarot",
-      "url": "https://www.superpsx.com/dragon-ball-z-kakarot-ps4-fpkg/"
-    },
-    {
-      "name": "Dragon Quest Builders",
-      "url": "https://www.superpsx.com/dragon-quest-builders-ps4-fpkg/"
-    },
-    {
-      "name": "Dragon Quest Builders 2",
-      "url": "https://www.superpsx.com/dragon-quest-builders-2-ps4-fpkg/"
-    },
-    {
-      "name": "Dragon Quest Xi S Echoes Of An Elusive Age",
-      "url": "https://www.superpsx.com/dragon-quest-xi-s-echoes-of-an-elusive-age-ps4-fpkg/"
-    },
-    {
       "name": "Dragon Star Varnir",
       "url": "https://www.superpsx.com/dragon-star-varnir-ps4-fpkg/"
     },
@@ -1733,36 +1265,12 @@
       "url": "https://www.superpsx.com/draugen-ps4-fpkg/"
     },
     {
-      "name": "Dreamals",
-      "url": "https://www.superpsx.com/dreamals-ps4-fpkg/"
-    },
-    {
-      "name": "Dreamfall Chapters",
-      "url": "https://www.superpsx.com/dreamfall-chapters-ps4-fpkg/"
-    },
-    {
-      "name": "Dreams",
-      "url": "https://www.superpsx.com/dreams-ps4-fpkg/"
-    },
-    {
-      "name": "Dreamworks All Star Kart Racing",
-      "url": "https://www.superpsx.com/dreamworks-all-star-kart-racing-ps4-fpkg/"
-    },
-    {
       "name": "Dreamworks Trolls Remix Rescue",
       "url": "https://www.superpsx.com/dreamworks-trolls-remix-rescue-ps4-fpkg/"
     },
     {
-      "name": "Dredge",
-      "url": "https://www.superpsx.com/dredge-ps4-fpkg/"
-    },
-    {
       "name": "Drova Forsaken Kin",
       "url": "https://www.superpsx.com/drova-forsaken-kin-ps4-fpkg/"
-    },
-    {
-      "name": "Drunkn Bar Fight",
-      "url": "https://www.superpsx.com/drunkn-bar-fight-ps4-fpkg/"
     },
     {
       "name": "Duke Nukem 3D 20Th Anniversary",
@@ -1785,28 +1293,8 @@
       "url": "https://www.superpsx.com/dungeons-of-the-hinterberg-ps4-fpkg/"
     },
     {
-      "name": "Dusk Diver",
-      "url": "https://www.superpsx.com/dusk-diver-ps4-fpkg/"
-    },
-    {
-      "name": "Dusk Diver 2",
-      "url": "https://www.superpsx.com/dusk-diver-2-ps4-fpkg/"
-    },
-    {
-      "name": "Dust An Elysian Tail",
-      "url": "https://www.superpsx.com/dust-an-elysian-tail-ps4-fpkg/"
-    },
-    {
       "name": "Dynasty Warriors 8 Empires",
       "url": "https://www.superpsx.com/dynasty-warriors-8-empires-ps4-fpkg/"
-    },
-    {
-      "name": "Dynasty Warriors 8 Xtreme Legends Complete Edition",
-      "url": "https://www.superpsx.com/dynasty-warriors-8-xtreme-legends-complete-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Dynasty Warriors 9",
-      "url": "https://www.superpsx.com/dynasty-warriors-9-ps4-fpkg/"
     },
     {
       "name": "Dynasty Warriors 9 Empires",
@@ -1823,10 +1311,6 @@
     {
       "name": "Ea Sports Fc 25",
       "url": "https://www.superpsx.com/ea-sports-fc-25-ps4-fpkg/"
-    },
-    {
-      "name": "Ea Sports UFC 2",
-      "url": "https://www.superpsx.com/ea-sports-ufc-2-ps4-fpkg/"
     },
     {
       "name": "Earth Defense Force 6",
@@ -1869,14 +1353,6 @@
       "url": "https://www.superpsx.com/efootball-pes-2021-ps4-fpkg/"
     },
     {
-      "name": "Eiyuden Chronicle Hundred Heroes Digital Deluxe Edition",
-      "url": "https://www.superpsx.com/eiyuden-chronicle-hundred-heroes-digital-deluxe-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Eiyuden Chronicle Rising",
-      "url": "https://www.superpsx.com/eiyuden-chronicle-rising-ps4-fpkg/"
-    },
-    {
       "name": "El Hijo A Wild West Tale",
       "url": "https://www.superpsx.com/el-hijo-a-wild-west-tale-ps4-fpkg/"
     },
@@ -1905,10 +1381,6 @@
       "url": "https://www.superpsx.com/encodya-ps4-fpkg/"
     },
     {
-      "name": "End Of Eternity 4K HD Edition",
-      "url": "https://www.superpsx.com/end-of-eternity-4k-hd-edition-ps4-fpkg/"
-    },
-    {
       "name": "Ender Lilies Quietus Of The Knights",
       "url": "https://www.superpsx.com/ender-lilies-quietus-of-the-knights-ps4-fpkg/"
     },
@@ -1929,36 +1401,12 @@
       "url": "https://www.superpsx.com/epic-chef-ps4-fpkg/"
     },
     {
-      "name": "Eternights",
-      "url": "https://www.superpsx.com/eternights-ps4-fpkg/"
-    },
-    {
-      "name": "Ether One",
-      "url": "https://www.superpsx.com/ether-one-ps4-fpkg/"
-    },
-    {
       "name": "Ever Forward",
       "url": "https://www.superpsx.com/ever-forward-ps4-fpkg/"
     },
     {
-      "name": "Everafter Falls",
-      "url": "https://www.superpsx.com/everafter-falls-ps4-fpkg/"
-    },
-    {
       "name": "Everreach Project Eden",
       "url": "https://www.superpsx.com/everreach-project-eden-ps4-fpkg/"
-    },
-    {
-      "name": "Everspace",
-      "url": "https://www.superpsx.com/everspace-ps4-fpkg/"
-    },
-    {
-      "name": "Everybodys Golf",
-      "url": "https://www.superpsx.com/everybodys-golf-ps4-fpkg/"
-    },
-    {
-      "name": "Everybodys Golf VR",
-      "url": "https://www.superpsx.com/everybodys-golf-vr-ps4-fpkg/"
     },
     {
       "name": "Everybodys Gone To The Rapture",
@@ -1967,14 +1415,6 @@
     {
       "name": "Evil Below",
       "url": "https://www.superpsx.com/evil-below-ps4-fpkg/"
-    },
-    {
-      "name": "Evil Genius 2 Wd",
-      "url": "https://www.superpsx.com/evil-genius-2-wd-ps4-fpkg/"
-    },
-    {
-      "name": "Evil West",
-      "url": "https://www.superpsx.com/evil-west-ps4-fpkg/"
     },
     {
       "name": "Evoland Legendary Edition",
@@ -2001,20 +1441,8 @@
       "url": "https://www.superpsx.com/extreme-bike-racing-ps4-fpkg/"
     },
     {
-      "name": "F1 23",
-      "url": "https://www.superpsx.com/f1-23-ps4-fpkg/"
-    },
-    {
-      "name": "F1 24",
-      "url": "https://www.superpsx.com/f1-24-ps4-fpkg/"
-    },
-    {
       "name": "Fade To Silence",
       "url": "https://www.superpsx.com/fade-to-silence-ps4-fpkg/"
-    },
-    {
-      "name": "Fairy Fencer F Refrain Chord",
-      "url": "https://www.superpsx.com/fairy-fencer-f-refrain-chord-ps4-fpkg/"
     },
     {
       "name": "Fairy Tail",
@@ -2023,10 +1451,6 @@
     {
       "name": "Fairy Tail 2 Ultimate Edition",
       "url": "https://www.superpsx.com/fairy-tail-2-ultimate-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Fallen Legion Revenants",
-      "url": "https://www.superpsx.com/fallen-legion-revenants-ps4-fpkg/"
     },
     {
       "name": "Far Changing Tides",
@@ -2053,32 +1477,12 @@
       "url": "https://www.superpsx.com/farmers-dynasty-ps4-fpkg/"
     },
     {
-      "name": "Farming Simulator 22",
-      "url": "https://www.superpsx.com/farming-simulator-22-ps4-fpkg/"
-    },
-    {
-      "name": "Farpoint VR",
-      "url": "https://www.superpsx.com/farpoint-vr-ps4-fpkg/"
-    },
-    {
       "name": "Fast Furious Crossroads",
       "url": "https://www.superpsx.com/fast-furious-crossroads-ps4-fpkg/"
     },
     {
       "name": "Fast Furious Spy Racers",
       "url": "https://www.superpsx.com/fast-furious-spy-racers-ps4-fpkg/"
-    },
-    {
-      "name": "Fatal Frame Maiden Black Water",
-      "url": "https://www.superpsx.com/fatal-frame-maiden-black-water-ps4-fpkg/"
-    },
-    {
-      "name": "Fatal Frame Mask Of The Lunar Eclipse",
-      "url": "https://www.superpsx.com/fatal-frame-mask-of-the-lunar-eclipse-ps4-fpkg/"
-    },
-    {
-      "name": "Fatal Fury City Of The Wolves",
-      "url": "https://www.superpsx.com/fatal-fury-city-of-the-wolves-ps4-fpkg/"
     },
     {
       "name": "Fate Extella Link",
@@ -2125,28 +1529,12 @@
       "url": "https://www.superpsx.com/final-fantasy-i-iv-pixel-remaster-ps4-fpkg/"
     },
     {
-      "name": "Final Fantasy IX",
-      "url": "https://www.superpsx.com/final-fantasy-ix-ps4-fpkg/"
-    },
-    {
-      "name": "Final Fantasy VII Remake",
-      "url": "https://www.superpsx.com/final-fantasy-vii-remake-ps4-fpkg/"
-    },
-    {
-      "name": "Final Fantasy X X 2 HD Remaster",
-      "url": "https://www.superpsx.com/final-fantasy-x-x-2-hd-remaster-ps4-fpkg/"
-    },
-    {
       "name": "Final Fantasy Xii The Zodiac Age",
       "url": "https://www.superpsx.com/final-fantasy-xii-the-zodiac-age-ps4-fpkg/"
     },
     {
       "name": "Fire Pro Wrestling World",
       "url": "https://www.superpsx.com/fire-pro-wrestling-world-ps4-fpkg/"
-    },
-    {
-      "name": "Firefighting Simulator The Squad",
-      "url": "https://www.superpsx.com/firefighting-simulator-the-squad-ps4-fpkg/"
     },
     {
       "name": "Fishing North Atlantic",
@@ -2173,14 +1561,6 @@
       "url": "https://www.superpsx.com/flynn-son-of-crimson-ps4-fpkg/"
     },
     {
-      "name": "Fobia St Dinfna Hotel",
-      "url": "https://www.superpsx.com/fobia-st-dinfna-hotel-ps4-fpkg/"
-    },
-    {
-      "name": "For Honor",
-      "url": "https://www.superpsx.com/for-honor-ps4-fpkg/"
-    },
-    {
       "name": "For The King",
       "url": "https://www.superpsx.com/for-the-king-ps4-fpkg/"
     },
@@ -2193,16 +1573,8 @@
       "url": "https://www.superpsx.com/foregone-ps4-fpkg/"
     },
     {
-      "name": "Forgive Me Father",
-      "url": "https://www.superpsx.com/forgive-me-father-ps4-fpkg/"
-    },
-    {
       "name": "Forgotton Anne",
       "url": "https://www.superpsx.com/forgotton-anne-ps4-fpkg/"
-    },
-    {
-      "name": "Forklift 2024 The Simulation",
-      "url": "https://www.superpsx.com/forklift-2024-the-simulation-ps4-fpkg/"
     },
     {
       "name": "Form",
@@ -2233,20 +1605,8 @@
       "url": "https://www.superpsx.com/friday-the-13th-killer-puzzle-ps4-fpkg/"
     },
     {
-      "name": "Friday The 13Th The Game",
-      "url": "https://www.superpsx.com/friday-the-13th-the-game-ps4-fpkg/"
-    },
-    {
       "name": "Front Mission 1St Remake",
       "url": "https://www.superpsx.com/front-mission-1st-remake-ps4-fpkg/"
-    },
-    {
-      "name": "Fruit Mountain",
-      "url": "https://www.superpsx.com/fruit-mountain-ps4-fpkg/"
-    },
-    {
-      "name": "Full Throttle Remastered",
-      "url": "https://www.superpsx.com/full-throttle-remastered-ps4-fpkg/"
     },
     {
       "name": "Fury Unleashed",
@@ -2289,10 +1649,6 @@
       "url": "https://www.superpsx.com/gear-club-unlimited-2-ps4-fpkg/"
     },
     {
-      "name": "Gearshifters",
-      "url": "https://www.superpsx.com/gearshifters-ps4-fpkg/"
-    },
-    {
       "name": "Generation Zero",
       "url": "https://www.superpsx.com/generation-zero-ps4-fpkg/"
     },
@@ -2301,20 +1657,12 @@
       "url": "https://www.superpsx.com/genesis-alpha-one-ps4-fpkg/"
     },
     {
-      "name": "Geometry Wars 3 Dimensions",
-      "url": "https://www.superpsx.com/geometry-wars-3-dimensions-ps4-fpkg/"
-    },
-    {
       "name": "Get Packed Fully Loaded",
       "url": "https://www.superpsx.com/get-packed-fully-loaded-ps4-fpkg/"
     },
     {
       "name": "Ghost Giant",
       "url": "https://www.superpsx.com/ghost-giant-ps4-fpkg/"
-    },
-    {
-      "name": "Ghost Of A Tale",
-      "url": "https://www.superpsx.com/ghost-of-a-tale-ps4-fpkg/"
     },
     {
       "name": "Ghost Song",
@@ -2349,14 +1697,6 @@
       "url": "https://www.superpsx.com/giraffe-and-annika-ps4-fpkg/"
     },
     {
-      "name": "Girlfriend From Hell",
-      "url": "https://www.superpsx.com/girlfriend-from-hell-ps4-fpkg/"
-    },
-    {
-      "name": "Glitch Hero",
-      "url": "https://www.superpsx.com/glitch-hero-ps4-fpkg/"
-    },
-    {
       "name": "Gnosia",
       "url": "https://www.superpsx.com/gnosia-ps4-fpkg/"
     },
@@ -2367,10 +1707,6 @@
     {
       "name": "God Eater 2 Rage Burst",
       "url": "https://www.superpsx.com/god-eater-2-rage-burst-ps4-fpkg/"
-    },
-    {
-      "name": "God Eater 3",
-      "url": "https://www.superpsx.com/god-eater-3-ps4-fpkg/"
     },
     {
       "name": "God Of Rock",
@@ -2385,24 +1721,12 @@
       "url": "https://www.superpsx.com/gods-remastered-ps4-fpkg/"
     },
     {
-      "name": "Godzilla",
-      "url": "https://www.superpsx.com/godzilla-ps4-fpkg/"
-    },
-    {
       "name": "Going Under",
       "url": "https://www.superpsx.com/going-under-ps4-fpkg/"
     },
     {
-      "name": "Gold Mining Simulator",
-      "url": "https://www.superpsx.com/gold-mining-simulator-ps4-fpkg/"
-    },
-    {
       "name": "Golden Force",
       "url": "https://www.superpsx.com/golden-force-ps4-fpkg/"
-    },
-    {
-      "name": "Golf Club Wasteland",
-      "url": "https://www.superpsx.com/golf-club-wasteland-ps4-fpkg/"
     },
     {
       "name": "Golf With Your Friends",
@@ -2441,10 +1765,6 @@
       "url": "https://www.superpsx.com/granblue-fantasy-relink-ps4-fpkg/"
     },
     {
-      "name": "Granblue Fantasy Versus",
-      "url": "https://www.superpsx.com/granblue-fantasy-versus-ps4-fpkg/"
-    },
-    {
       "name": "Granblue Fantasy Versus Rising Deluxe Edition",
       "url": "https://www.superpsx.com/granblue-fantasy-versus-rising-deluxe-edition-ps4-fpkg/"
     },
@@ -2481,10 +1801,6 @@
       "url": "https://www.superpsx.com/grid-legends-ps4-fpkg/"
     },
     {
-      "name": "Grim Fandango Remastered",
-      "url": "https://www.superpsx.com/grim-fandango-remastered-ps4-fpkg/"
-    },
-    {
       "name": "Grime Definitive Edition",
       "url": "https://www.superpsx.com/grime-definitive-edition-ps4-fpkg/"
     },
@@ -2501,10 +1817,6 @@
       "url": "https://www.superpsx.com/grounded-ps4-fpkg/"
     },
     {
-      "name": "Grow Home",
-      "url": "https://www.superpsx.com/grow-home-ps4-fpkg/"
-    },
-    {
       "name": "GTA The Trilogy",
       "url": "https://www.superpsx.com/gta-the-trilogy-ps4-fpkg/"
     },
@@ -2513,24 +1825,12 @@
       "url": "https://www.superpsx.com/guacamelee-2-ps4-fpkg/"
     },
     {
-      "name": "Guilty Gear Strive",
-      "url": "https://www.superpsx.com/guilty-gear-strive-ps4-fpkg/"
-    },
-    {
       "name": "Guilty Gear Xrd Rev 2",
       "url": "https://www.superpsx.com/guilty-gear-xrd-rev-2-ps4-fpkg/"
     },
     {
       "name": "Gundam Breaker 3 Break Edition",
       "url": "https://www.superpsx.com/gundam-breaker-3-break-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Gundam Breaker 4",
-      "url": "https://www.superpsx.com/gundam-breaker-4-ps4-fpkg/"
-    },
-    {
-      "name": "Gundam Versus",
-      "url": "https://www.superpsx.com/gundam-versus-ps4-fpkg/"
     },
     {
       "name": "Gungrave G O R E",
@@ -2573,10 +1873,6 @@
       "url": "https://www.superpsx.com/hamidashi-creative-ps4-fpkg/"
     },
     {
-      "name": "Hand Of Fate",
-      "url": "https://www.superpsx.com/hand-of-fate-ps4-fpkg/"
-    },
-    {
       "name": "Handball 21",
       "url": "https://www.superpsx.com/handball-21-ps4-fpkg/"
     },
@@ -2605,10 +1901,6 @@
       "url": "https://www.superpsx.com/harvest-moon-one-world-ps4-fpkg/"
     },
     {
-      "name": "Harvest Moon The Winds Of Anthos",
-      "url": "https://www.superpsx.com/harvest-moon-the-winds-of-anthos-ps4-fpkg/"
-    },
-    {
       "name": "Hatoful Boyfriend",
       "url": "https://www.superpsx.com/hatoful-boyfriend-ps4-fpkg/"
     },
@@ -2619,10 +1911,6 @@
     {
       "name": "Have A Nice Death",
       "url": "https://www.superpsx.com/have-a-nice-death-ps4-fpkg/"
-    },
-    {
-      "name": "Haven",
-      "url": "https://www.superpsx.com/haven-ps4-fpkg/"
     },
     {
       "name": "Heart And Slash",
@@ -2661,10 +1949,6 @@
       "url": "https://www.superpsx.com/hello-neighbor-2-ps4-fpkg/"
     },
     {
-      "name": "Hellpoint",
-      "url": "https://www.superpsx.com/hellpoint-ps4-fpkg/"
-    },
-    {
       "name": "Here They Lie VR",
       "url": "https://www.superpsx.com/here-they-lie-vr-ps4-fpkg/"
     },
@@ -2675,10 +1959,6 @@
     {
       "name": "Hidden Cats In London",
       "url": "https://www.superpsx.com/hidden-cats-in-london-ps4-fpkg/"
-    },
-    {
-      "name": "Hidden Cats In Paris",
-      "url": "https://www.superpsx.com/hidden-cats-in-paris-ps4-fpkg/"
     },
     {
       "name": "Hidden Paws",
@@ -2697,10 +1977,6 @@
       "url": "https://www.superpsx.com/hitman-2-ps4-fpkg/"
     },
     {
-      "name": "Hoa",
-      "url": "https://www.superpsx.com/hoa-ps4-fpkg/"
-    },
-    {
       "name": "Hob",
       "url": "https://www.superpsx.com/hob-ps4-fpkg/"
     },
@@ -2717,24 +1993,8 @@
       "url": "https://www.superpsx.com/home-sweet-home-ps4-fpkg/"
     },
     {
-      "name": "Homefront The Revolution",
-      "url": "https://www.superpsx.com/homefront-the-revolution-ps4-fpkg/"
-    },
-    {
       "name": "Horizon Chase 2",
       "url": "https://www.superpsx.com/horizon-chase-2-ps4-fpkg/"
-    },
-    {
-      "name": "Horizon Chase Turbo",
-      "url": "https://www.superpsx.com/horizon-chase-turbo-ps4-fpkg/"
-    },
-    {
-      "name": "Horse Club Adventures",
-      "url": "https://www.superpsx.com/horse-club-adventures-ps4-fpkg/"
-    },
-    {
-      "name": "Horse Club Adventures 2 Hazelwood Stories",
-      "url": "https://www.superpsx.com/horse-club-adventures-2-hazelwood-stories-ps4-fpkg/"
     },
     {
       "name": "Horse Tales Emerald Valley Ranch Deluxe Edition",
@@ -2745,20 +2005,12 @@
       "url": "https://www.superpsx.com/hot-wheels-monster-trucks-stunt-mayhem-ps4-fpkg/"
     },
     {
-      "name": "Hot Wheels Unleashed",
-      "url": "https://www.superpsx.com/hot-wheels-unleashed-ps4-fpkg/"
-    },
-    {
       "name": "Hot Wheels Unleashed 2 Turbocharged",
       "url": "https://www.superpsx.com/hot-wheels-unleashed-2-turbocharged-ps4-fpkg/"
     },
     {
       "name": "Hotline Miami 2 Wrong Number",
       "url": "https://www.superpsx.com/hotline-miami-2-wrong-number-ps4-fpkg/"
-    },
-    {
-      "name": "Hotshot Racing",
-      "url": "https://www.superpsx.com/hotshot-racing-ps4-fpkg/"
     },
     {
       "name": "House Flipper",
@@ -2805,26 +2057,6 @@
       "url": "https://www.superpsx.com/hunting-simulator-2-ps4-fpkg/"
     },
     {
-      "name": "Hustle Kings VR",
-      "url": "https://www.superpsx.com/hustle-kings-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Hyper Light Drifter",
-      "url": "https://www.superpsx.com/hyper-light-drifter-ps4-fpkg/"
-    },
-    {
-      "name": "I Am Bread",
-      "url": "https://www.superpsx.com/i-am-bread-ps4-fpkg/"
-    },
-    {
-      "name": "I Am Setsuna",
-      "url": "https://www.superpsx.com/i-am-setsuna-ps4-fpkg/"
-    },
-    {
-      "name": "I Expect You To Die 2 The Spy And The Liar",
-      "url": "https://www.superpsx.com/i-expect-you-to-die-2-the-spy-and-the-liar-ps4-fpkg/"
-    },
-    {
       "name": "Icey",
       "url": "https://www.superpsx.com/icey-ps4-fpkg/"
     },
@@ -2845,10 +2077,6 @@
       "url": "https://www.superpsx.com/imp-of-the-sun-ps4-fpkg/"
     },
     {
-      "name": "In Nightmare",
-      "url": "https://www.superpsx.com/in-nightmare-ps4-fpkg/"
-    },
-    {
       "name": "In Space We Brawl",
       "url": "https://www.superpsx.com/in-space-we-brawl-ps4-fpkg/"
     },
@@ -2859,10 +2087,6 @@
     {
       "name": "Indiecalypse",
       "url": "https://www.superpsx.com/indiecalypse-ps4-fpkg/"
-    },
-    {
-      "name": "Indivisible",
-      "url": "https://www.superpsx.com/indivisible-ps4-fpkg/"
     },
     {
       "name": "Inertial Drift",
@@ -2879,10 +2103,6 @@
     {
       "name": "Infliction Extended Cut",
       "url": "https://www.superpsx.com/infliction-extended-cut-ps4-fpkg/"
-    },
-    {
-      "name": "Injustice 2 Legendary Edition",
-      "url": "https://www.superpsx.com/injustice-2-legendary-edition-ps4-fpkg/"
     },
     {
       "name": "Inscryption",
@@ -2913,32 +2133,12 @@
       "url": "https://www.superpsx.com/it-takes-two-ps4-fpkg/"
     },
     {
-      "name": "J Stars Victory Vs Plus",
-      "url": "https://www.superpsx.com/j-stars-victory-vs-plus-ps4-fpkg/"
-    },
-    {
       "name": "Jackquest The Tale Of The Sword",
       "url": "https://www.superpsx.com/jackquest-the-tale-of-the-sword-ps4-fpkg/"
     },
     {
       "name": "Jagged Alliance 3",
       "url": "https://www.superpsx.com/jagged-alliance-3-ps4-fpkg/"
-    },
-    {
-      "name": "Jak 2",
-      "url": "https://www.superpsx.com/jak-2-ps4-fpkg/"
-    },
-    {
-      "name": "Jak 3",
-      "url": "https://www.superpsx.com/jak-3-ps4-fpkg/"
-    },
-    {
-      "name": "Jak And Daxter The Precursor Legacy",
-      "url": "https://www.superpsx.com/jak-and-daxter-the-precursor-legacy-ps4-fpkg/"
-    },
-    {
-      "name": "Jak Combat Racing",
-      "url": "https://www.superpsx.com/jak-combat-racing-ps4-fpkg/"
     },
     {
       "name": "Jeanne D Arc",
@@ -2965,28 +2165,8 @@
       "url": "https://www.superpsx.com/jojos-bizarre-adventure-asba-ps4-fpkg/"
     },
     {
-      "name": "Journey",
-      "url": "https://www.superpsx.com/journey-ps4-fpkg/"
-    },
-    {
-      "name": "Journey To The Savage Planet",
-      "url": "https://www.superpsx.com/journey-to-the-savage-planet-ps4-fpkg/"
-    },
-    {
-      "name": "Judgment",
-      "url": "https://www.superpsx.com/judgment-ps4-fpkg/"
-    },
-    {
       "name": "Jujutsu Kaisen Cursed Clash Ultimate Edition",
       "url": "https://www.superpsx.com/jujutsu-kaisen-cursed-clash-ultimate-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Jumanji The Video Game",
-      "url": "https://www.superpsx.com/jumanji-the-video-game-ps4-fpkg/"
-    },
-    {
-      "name": "Jumanji Wild Adventures",
-      "url": "https://www.superpsx.com/jumanji-wild-adventures-ps4-fpkg/"
     },
     {
       "name": "Jump Force",
@@ -3061,10 +2241,6 @@
       "url": "https://www.superpsx.com/killing-floor-2-ps4-fpkg/"
     },
     {
-      "name": "Killing Floor Incursion",
-      "url": "https://www.superpsx.com/killing-floor-incursion-ps4-fpkg/"
-    },
-    {
       "name": "Killzone Liberation",
       "url": "https://www.superpsx.com/killzone-liberation-ps4-fpkg/"
     },
@@ -3085,10 +2261,6 @@
       "url": "https://www.superpsx.com/kingdom-hearts-hd-1-5-2-5-remix-ps4-fpkg/"
     },
     {
-      "name": "Kingdom Hearts HD 28",
-      "url": "https://www.superpsx.com/kingdom-hearts-hd-28-ps4-fpkg/"
-    },
-    {
       "name": "Kingdom Hearts Melody Memory",
       "url": "https://www.superpsx.com/kingdom-hearts-melody-memory-ps4-fpkg/"
     },
@@ -3101,24 +2273,8 @@
       "url": "https://www.superpsx.com/kingdoms-of-amalur-re-reckoning-ps4-fpkg/"
     },
     {
-      "name": "Kings Bounty 2",
-      "url": "https://www.superpsx.com/kings-bounty-2-ps4-fpkg/"
-    },
-    {
       "name": "Kitaria Fables",
       "url": "https://www.superpsx.com/kitaria-fables-ps4-fpkg/"
-    },
-    {
-      "name": "Kitten Squad",
-      "url": "https://www.superpsx.com/kitten-squad-ps4-fpkg/"
-    },
-    {
-      "name": "Knack",
-      "url": "https://www.superpsx.com/knack-ps4-fpkg/"
-    },
-    {
-      "name": "Knack 2",
-      "url": "https://www.superpsx.com/knack-2-ps4-fpkg/"
     },
     {
       "name": "Koi",
@@ -3139,14 +2295,6 @@
     {
       "name": "Kunitsu Gami Path Of The Goddess",
       "url": "https://www.superpsx.com/kunitsu-gami-path-of-the-goddess-ps4-fpkg/"
-    },
-    {
-      "name": "L A Noire",
-      "url": "https://www.superpsx.com/l-a-noire-ps4-fpkg/"
-    },
-    {
-      "name": "Labyrinth Of Galleria The Moon Society",
-      "url": "https://www.superpsx.com/labyrinth-of-galleria-the-moon-society-ps4-fpkg/"
     },
     {
       "name": "Lacuna",
@@ -3177,10 +2325,6 @@
       "url": "https://www.superpsx.com/layers-of-fear-2-ps4-fpkg/"
     },
     {
-      "name": "Layers Of Fear VR",
-      "url": "https://www.superpsx.com/layers-of-fear-vr-ps4-fpkg/"
-    },
-    {
       "name": "Left Alive",
       "url": "https://www.superpsx.com/left-alive-ps4-fpkg/"
     },
@@ -3193,20 +2337,12 @@
       "url": "https://www.superpsx.com/legend-of-mana-ps4-fpkg/"
     },
     {
-      "name": "Lego 2K Drive Awesome Rivals Edition",
-      "url": "https://www.superpsx.com/lego-2k-drive-awesome-rivals-edition-ps4-fpkg/"
-    },
-    {
       "name": "Lego Brawls",
       "url": "https://www.superpsx.com/lego-brawls-ps4-fpkg/"
     },
     {
       "name": "Lego Dc Super Villains Deluxe Edition",
       "url": "https://www.superpsx.com/lego-dc-super-villains-deluxe-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Lego Dimensions",
-      "url": "https://www.superpsx.com/lego-dimensions-ps4-fpkg/"
     },
     {
       "name": "Lego Harry Potter Collection",
@@ -3219,14 +2355,6 @@
     {
       "name": "Lego Marvel Super Heroes 2",
       "url": "https://www.superpsx.com/lego-marvel-super-heroes-2-ps4-fpkg/"
-    },
-    {
-      "name": "Lego The Hobbit",
-      "url": "https://www.superpsx.com/lego-the-hobbit-ps4-fpkg/"
-    },
-    {
-      "name": "Lego The Incredibles",
-      "url": "https://www.superpsx.com/lego-the-incredibles-ps4-fpkg/"
     },
     {
       "name": "Lego The Skywalker Saga",
@@ -3277,16 +2405,8 @@
       "url": "https://www.superpsx.com/liar-princess-and-blind-prince-ps4-fpkg/"
     },
     {
-      "name": "Lies Of P",
-      "url": "https://www.superpsx.com/lies-of-p-ps4-fpkg/"
-    },
-    {
       "name": "Life In Willowdale Farm Adventures",
       "url": "https://www.superpsx.com/life-in-willowdale-farm-adventures-ps4-fpkg/"
-    },
-    {
-      "name": "Life Is Strange 2",
-      "url": "https://www.superpsx.com/life-is-strange-2-ps4-fpkg/"
     },
     {
       "name": "Life Is Strange Before Storm",
@@ -3297,40 +2417,16 @@
       "url": "https://www.superpsx.com/life-is-strange-remastered-ps4-fpkg/"
     },
     {
-      "name": "Life Is Strange True Colors",
-      "url": "https://www.superpsx.com/life-is-strange-true-colors-ps4-fpkg/"
-    },
-    {
-      "name": "Lifeless Planet Premier Edition",
-      "url": "https://www.superpsx.com/lifeless-planet-premier-edition-ps4-fpkg/"
-    },
-    {
       "name": "Liftoff Drone Racing",
       "url": "https://www.superpsx.com/liftoff-drone-racing-ps4-fpkg/"
-    },
-    {
-      "name": "Like A Dragon Gaiden",
-      "url": "https://www.superpsx.com/like-a-dragon-gaiden-ps4-fpkg/"
     },
     {
       "name": "Like A Dragon Infinite Wealth",
       "url": "https://www.superpsx.com/like-a-dragon-infinite-wealth-ps4-fpkg/"
     },
     {
-      "name": "Like A Dragon Ishin Deluxe Edition",
-      "url": "https://www.superpsx.com/like-a-dragon-ishin-deluxe-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Like A Dragon Pirate Yakuza In Hawaii Digital Deluxe Edition",
-      "url": "https://www.superpsx.com/like-a-dragon-pirate-yakuza-in-hawaii-digital-deluxe-edition-ps4-fpkg/"
-    },
-    {
       "name": "Limbo",
       "url": "https://www.superpsx.com/limbo-ps4-fpkg/"
-    },
-    {
-      "name": "Little Big Adventure Twinsens Quest",
-      "url": "https://www.superpsx.com/little-big-adventure-twinsens-quest-ps4-fpkg/"
     },
     {
       "name": "Little Big Workshop",
@@ -3357,14 +2453,6 @@
       "url": "https://www.superpsx.com/little-witch-academia-vr-broom-racing-ps4-fpkg/"
     },
     {
-      "name": "Little Witch Nobeta",
-      "url": "https://www.superpsx.com/little-witch-nobeta-ps4-fpkg/"
-    },
-    {
-      "name": "Littlebigplanet 3",
-      "url": "https://www.superpsx.com/littlebigplanet-3-ps4-fpkg/"
-    },
-    {
       "name": "Locoroco 2",
       "url": "https://www.superpsx.com/locoroco-2-ps4-fpkg/"
     },
@@ -3385,16 +2473,8 @@
       "url": "https://www.superpsx.com/lollipop-chainsaw-repop-ps4-fpkg/"
     },
     {
-      "name": "Lonely Mountains Downhill",
-      "url": "https://www.superpsx.com/lonely-mountains-downhill-ps4-fpkg/"
-    },
-    {
       "name": "Looney Tunes Wacky World Of Sports",
       "url": "https://www.superpsx.com/looney-tunes-wacky-world-of-sports-ps4-fpkg/"
-    },
-    {
-      "name": "Lords Of The Fallen",
-      "url": "https://www.superpsx.com/lords-of-the-fallen-ps4-fpkg/"
     },
     {
       "name": "Lost Ember",
@@ -3405,24 +2485,12 @@
       "url": "https://www.superpsx.com/lost-in-random-ps4-fpkg/"
     },
     {
-      "name": "Lost Judgment",
-      "url": "https://www.superpsx.com/lost-judgment-ps4-fpkg/"
-    },
-    {
       "name": "Lost Words Beyond Page",
       "url": "https://www.superpsx.com/lost-words-beyond-page-ps4-fpkg/"
     },
     {
       "name": "Lslw Dreams Dry Twice",
       "url": "https://www.superpsx.com/lslw-dreams-dry-twice-ps4-fpkg/"
-    },
-    {
-      "name": "Luckys Tale VR",
-      "url": "https://www.superpsx.com/luckys-tale-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Lunar Remastered Collection",
-      "url": "https://www.superpsx.com/lunar-remastered-collection-ps4-fpkg/"
     },
     {
       "name": "Machinarium",
@@ -3437,16 +2505,8 @@
       "url": "https://www.superpsx.com/mad-max-ps4-fpkg/"
     },
     {
-      "name": "Madden NFL 17",
-      "url": "https://www.superpsx.com/madden-nfl-17-ps4-fpkg/"
-    },
-    {
       "name": "Madden NFL 25",
       "url": "https://www.superpsx.com/madden-nfl-25-ps4-fpkg/"
-    },
-    {
-      "name": "Made In Abyss",
-      "url": "https://www.superpsx.com/made-in-abyss-ps4-fpkg/"
     },
     {
       "name": "Madison",
@@ -3461,10 +2521,6 @@
       "url": "https://www.superpsx.com/mafia-ii-definitive-edition-ps4-fpkg/"
     },
     {
-      "name": "Magicka 2",
-      "url": "https://www.superpsx.com/magicka-2-ps4-fpkg/"
-    },
-    {
       "name": "Mahluk Dark Demon",
       "url": "https://www.superpsx.com/mahluk-dark-demon-ps4-fpkg/"
     },
@@ -3475,10 +2531,6 @@
     {
       "name": "Maize",
       "url": "https://www.superpsx.com/maize-ps4-fpkg/"
-    },
-    {
-      "name": "Maneater",
-      "url": "https://www.superpsx.com/maneater-ps4-fpkg/"
     },
     {
       "name": "Mark Of Ninja Remastered",
@@ -3497,10 +2549,6 @@
       "url": "https://www.superpsx.com/martha-is-dead-ps4-fpkg/"
     },
     {
-      "name": "Marvel Ultimate Alliance",
-      "url": "https://www.superpsx.com/marvel-ultimate-alliance-ps4-fpkg/"
-    },
-    {
       "name": "Marvel Vs Capcom Fighting Collection Arcade Classics",
       "url": "https://www.superpsx.com/marvel-vs-capcom-fighting-collection-arcade-classics-ps4-fpkg/"
     },
@@ -3515,14 +2563,6 @@
     {
       "name": "Marvels Midnight Suns",
       "url": "https://www.superpsx.com/marvels-midnight-suns-ps4-fpkg/"
-    },
-    {
-      "name": "Mass Effect Andromeda",
-      "url": "https://www.superpsx.com/mass-effect-andromeda-ps4-fpkg/"
-    },
-    {
-      "name": "Mass Effect Legendary Edition",
-      "url": "https://www.superpsx.com/mass-effect-legendary-edition-ps4-fpkg/"
     },
     {
       "name": "Mato Anomalies",
@@ -3547,10 +2587,6 @@
     {
       "name": "Me Shadow Of Mordor Goty",
       "url": "https://www.superpsx.com/me-shadow-of-mordor-goty-ps4-fpkg/"
-    },
-    {
-      "name": "Mechwarrior 5 Mercenaries",
-      "url": "https://www.superpsx.com/mechwarrior-5-mercenaries-ps4-fpkg/"
     },
     {
       "name": "Medievil II",
@@ -3597,24 +2633,8 @@
       "url": "https://www.superpsx.com/metal-gear-solid-master-collection-ps4-fpkg/"
     },
     {
-      "name": "Metal Hellsinger",
-      "url": "https://www.superpsx.com/metal-hellsinger-ps4-fpkg/"
-    },
-    {
-      "name": "Metal Slug Anthology",
-      "url": "https://www.superpsx.com/metal-slug-anthology-ps4-fpkg/"
-    },
-    {
-      "name": "Metal Slug Tactics",
-      "url": "https://www.superpsx.com/metal-slug-tactics-ps4-fpkg/"
-    },
-    {
       "name": "Metro Exodus",
       "url": "https://www.superpsx.com/metro-exodus-ps4-fpkg/"
-    },
-    {
-      "name": "Metro Redux",
-      "url": "https://www.superpsx.com/metro-redux-ps4-fpkg/"
     },
     {
       "name": "Metro Simulator",
@@ -3665,16 +2685,8 @@
       "url": "https://www.superpsx.com/minoria-ps4-fpkg/"
     },
     {
-      "name": "Mlb The Show",
-      "url": "https://www.superpsx.com/mlb-the-show-ps4-fpkg/"
-    },
-    {
       "name": "Mlb The Show 21",
       "url": "https://www.superpsx.com/mlb-the-show-21-ps4-fpkg/"
-    },
-    {
-      "name": "Mlb The Show 23",
-      "url": "https://www.superpsx.com/mlb-the-show-23-ps4-fpkg/"
     },
     {
       "name": "Mlb The Show 24",
@@ -3687,14 +2699,6 @@
     {
       "name": "Modern Warfare",
       "url": "https://www.superpsx.com/modern-warfare-ps4-fpkg/"
-    },
-    {
-      "name": "Monark",
-      "url": "https://www.superpsx.com/monark-ps4-fpkg/"
-    },
-    {
-      "name": "Monochrome Mobius Rights And Wrongs Forgotten",
-      "url": "https://www.superpsx.com/monochrome-mobius-rights-and-wrongs-forgotten-ps4-fpkg/"
     },
     {
       "name": "Monster Crown",
@@ -3715,10 +2719,6 @@
     {
       "name": "Monster Hunter Rise Sunbreak",
       "url": "https://www.superpsx.com/monster-hunter-rise-sunbreak-ps4-fpkg/"
-    },
-    {
-      "name": "Monster Hunter Stories",
-      "url": "https://www.superpsx.com/monster-hunter-stories-ps4-fpkg/"
     },
     {
       "name": "Monster Jam Steel Titans",
@@ -3753,16 +2753,8 @@
       "url": "https://www.superpsx.com/moons-of-madness-ps4-fpkg/"
     },
     {
-      "name": "Moonscars",
-      "url": "https://www.superpsx.com/moonscars-ps4-fpkg/"
-    },
-    {
       "name": "Mordheim City Damned",
       "url": "https://www.superpsx.com/mordheim-city-damned-ps4-fpkg/"
-    },
-    {
-      "name": "Mortal Kombat Ultimate",
-      "url": "https://www.superpsx.com/mortal-kombat-ultimate-ps4-fpkg/"
     },
     {
       "name": "Mortal Shell",
@@ -3775,10 +2767,6 @@
     {
       "name": "Moss VR",
       "url": "https://www.superpsx.com/moss-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Mothergunship",
-      "url": "https://www.superpsx.com/mothergunship-ps4-fpkg/"
     },
     {
       "name": "Motogp 24",
@@ -3797,10 +2785,6 @@
       "url": "https://www.superpsx.com/moving-out-2-deluxe-edition-ps4-fpkg/"
     },
     {
-      "name": "Munchkin Quacked Quest",
-      "url": "https://www.superpsx.com/munchkin-quacked-quest-ps4-fpkg/"
-    },
-    {
       "name": "Mutant Football League",
       "url": "https://www.superpsx.com/mutant-football-league-ps4-fpkg/"
     },
@@ -3809,20 +2793,12 @@
       "url": "https://www.superpsx.com/mutant-year-zero-road-to-eden-ps4-fpkg/"
     },
     {
-      "name": "Mutazione",
-      "url": "https://www.superpsx.com/mutazione-ps4-fpkg/"
-    },
-    {
       "name": "Mx Vs Atv All Out",
       "url": "https://www.superpsx.com/mx-vs-atv-all-out-ps4-fpkg/"
     },
     {
       "name": "Mx Vs Atv Legends",
       "url": "https://www.superpsx.com/mx-vs-atv-legends-ps4-fpkg/"
-    },
-    {
-      "name": "My Friend Pedro",
-      "url": "https://www.superpsx.com/my-friend-pedro-ps4-fpkg/"
     },
     {
       "name": "My Friend Peppa Pig",
@@ -3893,10 +2869,6 @@
       "url": "https://www.superpsx.com/nascar-arcade-rush-ps4-fpkg/"
     },
     {
-      "name": "Nascar Heat 4",
-      "url": "https://www.superpsx.com/nascar-heat-4-ps4-fpkg/"
-    },
-    {
       "name": "Nascar Heat 5",
       "url": "https://www.superpsx.com/nascar-heat-5-ps4-ps4-fpkg/"
     },
@@ -3905,20 +2877,12 @@
       "url": "https://www.superpsx.com/naught-ps4-fpkg/"
     },
     {
-      "name": "NBA 2K Playgrounds 2",
-      "url": "https://www.superpsx.com/nba-2k-playgrounds-2-ps4-fpkg/"
-    },
-    {
       "name": "NBA 2K24",
       "url": "https://www.superpsx.com/nba-2k24-ps4-fpkg/"
     },
     {
       "name": "NBA 2K25",
       "url": "https://www.superpsx.com/nba-2k25-ps4-fpkg/"
-    },
-    {
-      "name": "NBA Live 19 The One Edition",
-      "url": "https://www.superpsx.com/nba-live-19-the-one-edition-ps4-fpkg/"
     },
     {
       "name": "Necromunda Hired Gun",
@@ -3939,10 +2903,6 @@
     {
       "name": "Neko Atsume VR",
       "url": "https://www.superpsx.com/neko-atsume-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Neo The World",
-      "url": "https://www.superpsx.com/neo-the-world-ps4-fpkg/"
     },
     {
       "name": "Neon Abyss",
@@ -3969,10 +2929,6 @@
       "url": "https://www.superpsx.com/nerf-legends-ps4-fpkg/"
     },
     {
-      "name": "Neva",
-      "url": "https://www.superpsx.com/neva-ps4-fpkg/"
-    },
-    {
       "name": "Neverawake",
       "url": "https://www.superpsx.com/neverawake-ps4-fpkg/"
     },
@@ -3981,28 +2937,8 @@
       "url": "https://www.superpsx.com/new-joe-mac-caveman-ninja-ps4-fpkg/"
     },
     {
-      "name": "New Tales From The Borderlands",
-      "url": "https://www.superpsx.com/new-tales-from-the-borderlands-ps4-fpkg/"
-    },
-    {
       "name": "Nex Machina",
       "url": "https://www.superpsx.com/nex-machina-ps4-fpkg/"
-    },
-    {
-      "name": "Nexomon",
-      "url": "https://www.superpsx.com/nexomon-ps4-fpkg/"
-    },
-    {
-      "name": "Nexomon Extinction",
-      "url": "https://www.superpsx.com/nexomon-extinction-ps4-fpkg/"
-    },
-    {
-      "name": "Nf Hot Pursuit Remastered",
-      "url": "https://www.superpsx.com/nf-hot-pursuit-remastered-ps4-fpkg/"
-    },
-    {
-      "name": "NHL 20",
-      "url": "https://www.superpsx.com/nhl-20-ps4-fpkg/"
     },
     {
       "name": "NHL 23",
@@ -4011,10 +2947,6 @@
     {
       "name": "NHL 24",
       "url": "https://www.superpsx.com/nhl-24-ps4-fpkg/"
-    },
-    {
-      "name": "Nickelodeon All Star",
-      "url": "https://www.superpsx.com/nickelodeon-all-star-ps4-fpkg/"
     },
     {
       "name": "Nickelodeon All Star Brawl 2",
@@ -4041,10 +2973,6 @@
       "url": "https://www.superpsx.com/ninja-gaiden-master-collection-ps4-fpkg/"
     },
     {
-      "name": "Ninja Legends",
-      "url": "https://www.superpsx.com/ninja-legends-ps4-fpkg/"
-    },
-    {
       "name": "Nioh 2",
       "url": "https://www.superpsx.com/nioh-2-ps4-fpkg/"
     },
@@ -4065,10 +2993,6 @@
       "url": "https://www.superpsx.com/no-straight-roads-ps4-fpkg/"
     },
     {
-      "name": "Noob The Factionless",
-      "url": "https://www.superpsx.com/noob-the-factionless-ps4-fpkg/"
-    },
-    {
       "name": "Nora To Oujo To Noraneko Heart HD",
       "url": "https://www.superpsx.com/nora-to-oujo-to-noraneko-heart-hd-ps4-fpkg/"
     },
@@ -4077,24 +3001,12 @@
       "url": "https://www.superpsx.com/norco-ps4-fpkg/"
     },
     {
-      "name": "North Star Lost Paradise",
-      "url": "https://www.superpsx.com/north-star-lost-paradise-ps4-fpkg/"
-    },
-    {
-      "name": "Not For Broadcast VR",
-      "url": "https://www.superpsx.com/not-for-broadcast-vr-ps4-fpkg/"
-    },
-    {
-      "name": "Obduction",
-      "url": "https://www.superpsx.com/obduction-ps4-fpkg/"
+      "name": "Northgard",
+      "url": "https://www.superpsx.com/northgard-ps4-fpkg/"
     },
     {
       "name": "Obey Me",
       "url": "https://www.superpsx.com/obey-me-ps4-fpkg/"
-    },
-    {
-      "name": "Octopath Traveler II",
-      "url": "https://www.superpsx.com/octopath-traveler-ii-ps4-fpkg/"
     },
     {
       "name": "Odallus The Dark Call",
@@ -4193,10 +3105,6 @@
       "url": "https://www.superpsx.com/orbital-bullet-ps4-fpkg/"
     },
     {
-      "name": "Orcs Must Die 3",
-      "url": "https://www.superpsx.com/orcs-must-die-3-ps4-fpkg/"
-    },
-    {
       "name": "Othercide",
       "url": "https://www.superpsx.com/othercide-ps4-fpkg/"
     },
@@ -4261,20 +3169,8 @@
       "url": "https://www.superpsx.com/oxenfree-ps4-fpkg/"
     },
     {
-      "name": "Oxenfree II Lost Signals",
-      "url": "https://www.superpsx.com/oxenfree-ii-lost-signals-ps4-fpkg/"
-    },
-    {
       "name": "P.T.",
       "url": "https://www.superpsx.com/p-t-ps4-fpkg/"
-    },
-    {
-      "name": "Pac Man 256",
-      "url": "https://www.superpsx.com/pac-man-256-ps4-fpkg/"
-    },
-    {
-      "name": "Pac Man World Re Pac",
-      "url": "https://www.superpsx.com/pac-man-world-re-pac-ps4-fpkg/"
     },
     {
       "name": "Panzer Dragoon Remake",
@@ -4289,32 +3185,12 @@
       "url": "https://www.superpsx.com/paper-cut-mansion-ps4-fpkg/"
     },
     {
-      "name": "Paper Dolls",
-      "url": "https://www.superpsx.com/paper-dolls-ps4-fpkg/"
-    },
-    {
       "name": "Paperman Adventure Delivered",
       "url": "https://www.superpsx.com/paperman-adventure-delivered-ps4-fpkg/"
     },
     {
-      "name": "Paradise Killer",
-      "url": "https://www.superpsx.com/paradise-killer-ps4-fpkg/"
-    },
-    {
-      "name": "Paraiso Island",
-      "url": "https://www.superpsx.com/paraiso-island-ps4-fpkg/"
-    },
-    {
-      "name": "Pathfinder Kingmaker Definitive Edition",
-      "url": "https://www.superpsx.com/pathfinder-kingmaker-definitive-edition-ps4-fpkg/"
-    },
-    {
       "name": "Pathfinder Wrath Of The Righteous",
       "url": "https://www.superpsx.com/pathfinder-wrath-of-the-righteous-ps4-fpkg/"
-    },
-    {
-      "name": "Pathologic 2",
-      "url": "https://www.superpsx.com/pathologic-2-ps4-fpkg/"
     },
     {
       "name": "Paw Patrol Grand Prix",
@@ -4357,10 +3233,6 @@
       "url": "https://www.superpsx.com/persona-4-arena-ultimax-ps4-fpkg/"
     },
     {
-      "name": "Persona 4 Dancing All Night",
-      "url": "https://www.superpsx.com/persona-4-dancing-all-night-ps4-fpkg/"
-    },
-    {
       "name": "Persona 4 Golden",
       "url": "https://www.superpsx.com/persona-4-golden-ps4-fpkg/"
     },
@@ -4389,20 +3261,8 @@
       "url": "https://www.superpsx.com/phantom-doctrine-ps4-fpkg/"
     },
     {
-      "name": "Phoenix Point",
-      "url": "https://www.superpsx.com/phoenix-point-ps4-fpkg/"
-    },
-    {
-      "name": "Phoenix Wright Ace Attorney Trilogy",
-      "url": "https://www.superpsx.com/phoenix-wright-ace-attorney-trilogy-ps4-fpkg/"
-    },
-    {
       "name": "Pierhead Arcade",
       "url": "https://www.superpsx.com/pierhead-arcade-ps4-fpkg/"
-    },
-    {
-      "name": "Pillars Of Eternity",
-      "url": "https://www.superpsx.com/pillars-of-eternity-ps4-fpkg/"
     },
     {
       "name": "Pinball Fx3",
@@ -4439,10 +3299,6 @@
     {
       "name": "Planet Of Lana",
       "url": "https://www.superpsx.com/planet-of-lana-ps4-fpkg/"
-    },
-    {
-      "name": "Pocket Bravery",
-      "url": "https://www.superpsx.com/pocket-bravery-ps4-fpkg/"
     },
     {
       "name": "Pocky Rocky Reshrined",
@@ -4483,10 +3339,6 @@
     {
       "name": "Postal Redux",
       "url": "https://www.superpsx.com/postal-redux-ps4-fpkg/"
-    },
-    {
-      "name": "Potion Craft",
-      "url": "https://www.superpsx.com/potion-craft-ps4-fpkg/"
     },
     {
       "name": "Potion Permit",
@@ -4549,24 +3401,8 @@
       "url": "https://www.superpsx.com/prototype-2-ps4-fpkg/"
     },
     {
-      "name": "Psychonauts",
-      "url": "https://www.superpsx.com/psychonauts-ps4-fpkg/"
-    },
-    {
-      "name": "Psychonauts 2",
-      "url": "https://www.superpsx.com/psychonauts-2-ps4-fpkg/"
-    },
-    {
-      "name": "Pummel Party",
-      "url": "https://www.superpsx.com/pummel-party-ps4-fpkg/"
-    },
-    {
       "name": "Pumpkin Jack",
       "url": "https://www.superpsx.com/pumpkin-jack-ps4-fpkg/"
-    },
-    {
-      "name": "Puzzle Bobble 3D Vacation Odyssey",
-      "url": "https://www.superpsx.com/puzzle-bobble-3d-vacation-odyssey-ps4-fpkg/"
     },
     {
       "name": "Pyre",
@@ -4589,16 +3425,8 @@
       "url": "https://www.superpsx.com/r-type-final-3-ps4-fpkg/"
     },
     {
-      "name": "Rabbids Party Of Legends",
-      "url": "https://www.superpsx.com/rabbids-party-of-legends-ps4-fpkg/"
-    },
-    {
       "name": "Rabi Ribi",
       "url": "https://www.superpsx.com/rabi-ribi-ps4-fpkg/"
-    },
-    {
-      "name": "Race The Sun",
-      "url": "https://www.superpsx.com/race-the-sun-ps4-fpkg/"
     },
     {
       "name": "Race With Ryan",
@@ -4607,10 +3435,6 @@
     {
       "name": "Rage 2",
       "url": "https://www.superpsx.com/rage-2-ps4-fpkg/"
-    },
-    {
-      "name": "Raid World War II",
-      "url": "https://www.superpsx.com/raid-world-war-ii-ps4-fpkg/"
     },
     {
       "name": "Raidou Remastered The Mystery Of The Soulless Army",
@@ -4657,10 +3481,6 @@
       "url": "https://www.superpsx.com/red-faction-guerrilla-re-mars-tered-ps4-fpkg/"
     },
     {
-      "name": "Redeemer Enhanced Edition",
-      "url": "https://www.superpsx.com/redeemer-enhanced-edition-ps4-fpkg/"
-    },
-    {
       "name": "Redout 2 Deluxe Edition",
       "url": "https://www.superpsx.com/redout-2-deluxe-edition-ps4-fpkg/"
     },
@@ -4683,14 +3503,6 @@
     {
       "name": "Republique",
       "url": "https://www.superpsx.com/republique-ps4-fpkg/"
-    },
-    {
-      "name": "Republique VR Anniversary Edition",
-      "url": "https://www.superpsx.com/republique-vr-anniversary-edition-ps4-fpkg/"
-    },
-    {
-      "name": "Resident Evil Origins Collection",
-      "url": "https://www.superpsx.com/resident-evil-origins-collection-ps4-fpkg/"
     },
     {
       "name": "Resistance Retribution",
@@ -4723,10 +3535,6 @@
     {
       "name": "Riders Republic",
       "url": "https://www.superpsx.com/riders-republic-ps4-fpkg/"
-    },
-    {
-      "name": "Rigs Mechanized Combat League VR",
-      "url": "https://www.superpsx.com/rigs-mechanized-combat-league-vr-ps4-fpkg/"
     },
     {
       "name": "Rims Racing",
@@ -4833,28 +3641,12 @@
       "url": "https://www.superpsx.com/romancing-saga-2-revenge-of-the-seven-ps4-fpkg/"
     },
     {
-      "name": "Root Film",
-      "url": "https://www.superpsx.com/root-film-ps4-fpkg/"
-    },
-    {
       "name": "RPG Maker Mv",
       "url": "https://www.superpsx.com/rpg-maker-mv-ps4-fpkg/"
     },
     {
-      "name": "RPG Maker With",
-      "url": "https://www.superpsx.com/rpg-maker-with-ps4-fpkg/"
-    },
-    {
-      "name": "Ruinarch",
-      "url": "https://www.superpsx.com/ruinarch-ps4-fpkg/"
-    },
-    {
       "name": "Ruiner",
       "url": "https://www.superpsx.com/ruiner-ps4-fpkg/"
-    },
-    {
-      "name": "Running Fox",
-      "url": "https://www.superpsx.com/running-fox-ps4-fpkg/"
     },
     {
       "name": "Rush VR",
@@ -4893,10 +3685,6 @@
       "url": "https://www.superpsx.com/saints-row-the-third-remastered-ps4-fpkg/"
     },
     {
-      "name": "Sairento VR",
-      "url": "https://www.superpsx.com/sairento-vr-ps4-fpkg/"
-    },
-    {
       "name": "Sakuna Of Rice And Ruin",
       "url": "https://www.superpsx.com/sakuna-of-rice-and-ruin-ps4-fpkg/"
     },
@@ -4917,24 +3705,12 @@
       "url": "https://www.superpsx.com/salt-and-sanctuary-ps4-fpkg/"
     },
     {
-      "name": "Sam Max This Time Its Virtual",
-      "url": "https://www.superpsx.com/sam-max-this-time-its-virtual-ps4-fpkg/"
-    },
-    {
       "name": "Samurai Bringer",
       "url": "https://www.superpsx.com/samurai-bringer-ps4-fpkg/"
     },
     {
       "name": "Samurai Jack Btt",
       "url": "https://www.superpsx.com/samurai-jack-btt-ps4-fpkg/"
-    },
-    {
-      "name": "Samurai Maiden",
-      "url": "https://www.superpsx.com/samurai-maiden-ps4-fpkg/"
-    },
-    {
-      "name": "Samurai Shodown",
-      "url": "https://www.superpsx.com/samurai-shodown-ps4-fpkg/"
     },
     {
       "name": "Samurai Warriors 4",
@@ -5029,10 +3805,6 @@
       "url": "https://www.superpsx.com/shadow-blade-reload-ps4-fpkg/"
     },
     {
-      "name": "Shadow Legend VR",
-      "url": "https://www.superpsx.com/shadow-legend-vr-ps4-fpkg/"
-    },
-    {
       "name": "Shadow Man Remastered",
       "url": "https://www.superpsx.com/shadow-man-remastered-ps4-fpkg/"
     },
@@ -5093,14 +3865,6 @@
       "url": "https://www.superpsx.com/shakedown-hawaii-ps4-fpkg/"
     },
     {
-      "name": "Shantae Half Genie Hero",
-      "url": "https://www.superpsx.com/shantae-half-genie-hero-ps4-fpkg/"
-    },
-    {
-      "name": "Shantae The Seven Sirens",
-      "url": "https://www.superpsx.com/shantae-the-seven-sirens-ps4-fpkg/"
-    },
-    {
       "name": "Sherlock Holmes Chapter One",
       "url": "https://www.superpsx.com/sherlock-holmes-chapter-one-ps4-fpkg/"
     },
@@ -5125,16 +3889,8 @@
       "url": "https://www.superpsx.com/shoppe-keep-ps4-fpkg/"
     },
     {
-      "name": "Shovel Knight Treasure Trove",
-      "url": "https://www.superpsx.com/shovel-knight-treasure-trove-ps4-fpkg/"
-    },
-    {
       "name": "Sid Meiers Civilization VI",
       "url": "https://www.superpsx.com/sid-meiers-civilization-vi-ps4-fpkg/"
-    },
-    {
-      "name": "Sid Meiers Civilization VII",
-      "url": "https://www.superpsx.com/sid-meiers-civilization-vii-ps4-fpkg/"
     },
     {
       "name": "Sifu",
@@ -5201,10 +3957,6 @@
       "url": "https://www.superpsx.com/sky-revolver-ps4-fpkg/"
     },
     {
-      "name": "Skyhill",
-      "url": "https://www.superpsx.com/skyhill-ps4-fpkg/"
-    },
-    {
       "name": "Skylanders Swap Force",
       "url": "https://www.superpsx.com/skylanders-swap-force-ps4-fpkg/"
     },
@@ -5241,10 +3993,6 @@
       "url": "https://www.superpsx.com/slide-stars-ps4-fpkg/"
     },
     {
-      "name": "Slime 3K Rise Against Despot",
-      "url": "https://www.superpsx.com/slime-3k-rise-against-despot-ps4-fpkg/"
-    },
-    {
       "name": "Slime Rancher",
       "url": "https://www.superpsx.com/slime-rancher-ps4-fpkg/"
     },
@@ -5255,10 +4003,6 @@
     {
       "name": "Slitterhead",
       "url": "https://www.superpsx.com/slitterhead-ps4-fpkg/"
-    },
-    {
-      "name": "Smash Hit Plunder",
-      "url": "https://www.superpsx.com/smash-hit-plunder-ps4-fpkg/"
     },
     {
       "name": "Smt3 Nocturne HD",
@@ -5281,10 +4025,6 @@
       "url": "https://www.superpsx.com/sniper-elite-vr-ps4-fpkg/"
     },
     {
-      "name": "Sniper Ghost Warrior Contracts",
-      "url": "https://www.superpsx.com/sniper-ghost-warrior-contracts-ps4-fpkg/"
-    },
-    {
       "name": "Snk Heroines Tag Team Frenzy",
       "url": "https://www.superpsx.com/snk-heroines-tag-team-frenzy-ps4-fpkg/"
     },
@@ -5295,10 +4035,6 @@
     {
       "name": "Soccer Story",
       "url": "https://www.superpsx.com/soccer-story-ps4-fpkg/"
-    },
-    {
-      "name": "Sokorobot",
-      "url": "https://www.superpsx.com/sokorobot-ps4-fpkg/"
     },
     {
       "name": "Solar Ash",
@@ -5333,10 +4069,6 @@
       "url": "https://www.superpsx.com/soul-hackers-2-ps4-fpkg/"
     },
     {
-      "name": "Soulcalibur VI",
-      "url": "https://www.superpsx.com/soulcalibur-vi-ps4-fpkg/"
-    },
-    {
       "name": "Souldiers",
       "url": "https://www.superpsx.com/souldiers-ps4-fpkg/"
     },
@@ -5355,14 +4087,6 @@
     {
       "name": "Space Engineers",
       "url": "https://www.superpsx.com/space-engineers-ps4-fpkg/"
-    },
-    {
-      "name": "Space Hulk Deathwing",
-      "url": "https://www.superpsx.com/space-hulk-deathwing-ps4-fpkg/"
-    },
-    {
-      "name": "Space Hulk Tactics",
-      "url": "https://www.superpsx.com/space-hulk-tactics-ps4-fpkg/"
     },
     {
       "name": "Space Overlords",
@@ -5397,14 +4121,6 @@
       "url": "https://www.superpsx.com/spelunker-hd-deluxe-ps4-fpkg/"
     },
     {
-      "name": "Spelunky 2",
-      "url": "https://www.superpsx.com/spelunky-2-ps4-fpkg/"
-    },
-    {
-      "name": "Spiderheck",
-      "url": "https://www.superpsx.com/spiderheck-ps4-fpkg/"
-    },
-    {
       "name": "Spintires Mudrunner",
       "url": "https://www.superpsx.com/spintires-mudrunner-ps4-fpkg/"
     },
@@ -5417,16 +4133,8 @@
       "url": "https://www.superpsx.com/spiritfarer-ps4-fpkg/"
     },
     {
-      "name": "Split",
-      "url": "https://www.superpsx.com/split-ps4-fpkg/"
-    },
-    {
       "name": "Spongebob Squarepants Battle For Bikini Bottom Rehydrated",
       "url": "https://www.superpsx.com/spongebob-squarepants-battle-for-bikini-bottom-rehydrated-ps4-fpkg/"
-    },
-    {
-      "name": "Spongebob Squarepants Cosmic Shake",
-      "url": "https://www.superpsx.com/spongebob-squarepants-cosmic-shake-ps4-fpkg/"
     },
     {
       "name": "Spongebob Squarepants The Patrick Star Game",
@@ -5435,10 +4143,6 @@
     {
       "name": "Sprint Vector",
       "url": "https://www.superpsx.com/sprint-vector-ps4-fpkg/"
-    },
-    {
-      "name": "Squishies",
-      "url": "https://www.superpsx.com/squishies-ps4-fpkg/"
     },
     {
       "name": "Srx The Game",
@@ -5457,22 +4161,6 @@
       "url": "https://www.superpsx.com/star-renegades-ps4-fpkg/"
     },
     {
-      "name": "Star Trek Legends",
-      "url": "https://www.superpsx.com/star-trek-legends-ps4-fpkg/"
-    },
-    {
-      "name": "Star Trek Prodigy Supernova",
-      "url": "https://www.superpsx.com/star-trek-prodigy-supernova-ps4-fpkg/"
-    },
-    {
-      "name": "Star Trek Resurgence",
-      "url": "https://www.superpsx.com/star-trek-resurgence-ps4-fpkg/"
-    },
-    {
-      "name": "Star Wars Battlefront",
-      "url": "https://www.superpsx.com/star-wars-battlefront-ps4-fpkg/"
-    },
-    {
       "name": "Star Wars Battlefront Classic Collection",
       "url": "https://www.superpsx.com/star-wars-battlefront-classic-collection-ps4-fpkg/"
     },
@@ -5483,10 +4171,6 @@
     {
       "name": "Star Wars Republic Commando",
       "url": "https://www.superpsx.com/star-wars-republic-commando-ps4-fpkg/"
-    },
-    {
-      "name": "Star Wars Squadrons",
-      "url": "https://www.superpsx.com/star-wars-squadrons-ps4-fpkg/"
     },
     {
       "name": "Stardew Valley",
@@ -5529,24 +4213,12 @@
       "url": "https://www.superpsx.com/steins-gate-elite-ps4-fpkg/"
     },
     {
-      "name": "Stellaris Console Edition",
-      "url": "https://www.superpsx.com/stellaris-console-edition-ps4-fpkg/"
-    },
-    {
       "name": "Steven Universe Unleash The Light",
       "url": "https://www.superpsx.com/steven-universe-unleash-the-light-ps4-fpkg/"
     },
     {
-      "name": "Stick Fight The Game",
-      "url": "https://www.superpsx.com/stick-fight-the-game-ps4-fpkg/"
-    },
-    {
       "name": "Stilstand",
       "url": "https://www.superpsx.com/stilstand-ps4-fpkg/"
-    },
-    {
-      "name": "Stories Untold",
-      "url": "https://www.superpsx.com/stories-untold-ps4-fpkg/"
     },
     {
       "name": "Strafe",
@@ -5555,10 +4227,6 @@
     {
       "name": "Stranded Deep",
       "url": "https://www.superpsx.com/stranded-deep-ps4-fpkg/"
-    },
-    {
-      "name": "Strange Brigade",
-      "url": "https://www.superpsx.com/strange-brigade-ps4-fpkg/"
     },
     {
       "name": "Stranger Things 3 The Game",
@@ -5575,10 +4243,6 @@
     {
       "name": "Strayed Lights",
       "url": "https://www.superpsx.com/strayed-lights-ps4-fpkg/"
-    },
-    {
-      "name": "Street Food Restaurant Owner",
-      "url": "https://www.superpsx.com/street-food-restaurant-owner-ps4-fpkg/"
     },
     {
       "name": "Street Power Football",
@@ -5673,10 +4337,6 @@
       "url": "https://www.superpsx.com/super-robot-wars-x-ps4-fpkg/"
     },
     {
-      "name": "Super Toy Cars",
-      "url": "https://www.superpsx.com/super-toy-cars-ps4-fpkg/"
-    },
-    {
       "name": "Superhot Mind Control Delete",
       "url": "https://www.superpsx.com/superhot-mind-control-delete-ps4-fpkg/"
     },
@@ -5691,10 +4351,6 @@
     {
       "name": "Supraland",
       "url": "https://www.superpsx.com/supraland-ps4-fpkg/"
-    },
-    {
-      "name": "Surviving Mars",
-      "url": "https://www.superpsx.com/surviving-mars-ps4-fpkg/"
     },
     {
       "name": "Surviving The Aftermath",
@@ -5753,32 +4409,16 @@
       "url": "https://www.superpsx.com/system-shock-ps4-fpkg/"
     },
     {
-      "name": "Tachyon Project",
-      "url": "https://www.superpsx.com/tachyon-project-ps4-fpkg/"
-    },
-    {
       "name": "Tactics Ogre Reborn",
       "url": "https://www.superpsx.com/tactics-ogre-reborn-ps4-fpkg/"
-    },
-    {
-      "name": "Taiko No Tatsujin Ds",
-      "url": "https://www.superpsx.com/taiko-no-tatsujin-ds-ps4-fpkg/"
     },
     {
       "name": "Tails Noir",
       "url": "https://www.superpsx.com/tails-noir-ps4-fpkg/"
     },
     {
-      "name": "Tails Of Iron",
-      "url": "https://www.superpsx.com/tails-of-iron-ps4-fpkg/"
-    },
-    {
       "name": "Taishogun The Rise Of Emperor",
       "url": "https://www.superpsx.com/taishogun-the-rise-of-emperor-ps4-fpkg/"
-    },
-    {
-      "name": "Tales From The Borderlands",
-      "url": "https://www.superpsx.com/tales-from-the-borderlands-ps4-fpkg/"
     },
     {
       "name": "Tales Of Arise",
@@ -5849,28 +4489,12 @@
       "url": "https://www.superpsx.com/terminator-resistance-ps4-fpkg/"
     },
     {
-      "name": "Terratech",
-      "url": "https://www.superpsx.com/terratech-ps4-fpkg/"
-    },
-    {
-      "name": "Teslagrad 2",
-      "url": "https://www.superpsx.com/teslagrad-2-ps4-fpkg/"
-    },
-    {
       "name": "Tetraminos",
       "url": "https://www.superpsx.com/tetraminos-ps4-fpkg/"
     },
     {
-      "name": "Tetris Effect",
-      "url": "https://www.superpsx.com/tetris-effect-ps4-fpkg/"
-    },
-    {
       "name": "The Adventure Pals",
       "url": "https://www.superpsx.com/the-adventure-pals-ps4-fpkg/"
-    },
-    {
-      "name": "The Alliance Alive HD Remaster",
-      "url": "https://www.superpsx.com/the-alliance-alive-hd-remaster-ps4-fpkg/"
     },
     {
       "name": "The Artful Escape",
@@ -5883,10 +4507,6 @@
     {
       "name": "The Banner Saga 2",
       "url": "https://www.superpsx.com/the-banner-saga-2-ps4-fpkg/"
-    },
-    {
-      "name": "The Bards Tale IV Directors Cut",
-      "url": "https://www.superpsx.com/the-bards-tale-iv-directors-cut-ps4-fpkg/"
     },
     {
       "name": "The Binding Of Isaac Afterbirth Plus",
@@ -5929,20 +4549,12 @@
       "url": "https://www.superpsx.com/the-callisto-proto-ps4-fpkg/"
     },
     {
-      "name": "The Catch Carp Coarse",
-      "url": "https://www.superpsx.com/the-catch-carp-coarse-ps4-fpkg/"
-    },
-    {
       "name": "The Centenial Case A Shijima Story",
       "url": "https://www.superpsx.com/the-centenial-case-a-shijima-story-ps4-fpkg/"
     },
     {
       "name": "The Colonists",
       "url": "https://www.superpsx.com/the-colonists-ps4-fpkg/"
-    },
-    {
-      "name": "The Coma 2 Vicious Sisters",
-      "url": "https://www.superpsx.com/the-coma-2-vicious-sisters-ps4-fpkg/"
     },
     {
       "name": "The Coma Recut",
@@ -5989,14 +4601,6 @@
       "url": "https://www.superpsx.com/the-darkest-tales-ps4-fpkg/"
     },
     {
-      "name": "The Darkside Detective",
-      "url": "https://www.superpsx.com/the-darkside-detective-ps4-fpkg/"
-    },
-    {
-      "name": "The Darkside Detective A Fumble In The Dark",
-      "url": "https://www.superpsx.com/the-darkside-detective-a-fumble-in-the-dark-ps4-fpkg/"
-    },
-    {
       "name": "The Diofield Chronicle",
       "url": "https://www.superpsx.com/the-diofield-chronicle-ps4-fpkg/"
     },
@@ -6005,20 +4609,8 @@
       "url": "https://www.superpsx.com/the-disappearing-of-gensokyo-ps4-fpkg/"
     },
     {
-      "name": "The Disney Afternoon Collection",
-      "url": "https://www.superpsx.com/the-disney-afternoon-collection-ps4-fpkg/"
-    },
-    {
       "name": "The End Is Nigh",
       "url": "https://www.superpsx.com/the-end-is-nigh-ps4-fpkg/"
-    },
-    {
-      "name": "The Entropy Centre",
-      "url": "https://www.superpsx.com/the-entropy-centre-ps4-fpkg/"
-    },
-    {
-      "name": "The Eternal Castle Remastered",
-      "url": "https://www.superpsx.com/the-eternal-castle-remastered-ps4-fpkg/"
     },
     {
       "name": "The Eternal Cylinder",
@@ -6027,10 +4619,6 @@
     {
       "name": "The Evil Within 2",
       "url": "https://www.superpsx.com/the-evil-within-2-ps4-fpkg/"
-    },
-    {
-      "name": "The Evil Within Complete Edition",
-      "url": "https://www.superpsx.com/the-evil-within-complete-edition-ps4-fpkg/"
     },
     {
       "name": "The Exit 8",
@@ -6045,16 +4633,8 @@
       "url": "https://www.superpsx.com/the-expanse-a-telltale-series-ps4-fpkg/"
     },
     {
-      "name": "The Falconeer Warrior Edition",
-      "url": "https://www.superpsx.com/the-falconeer-warrior-edition-ps4-fpkg/"
-    },
-    {
       "name": "The Fall Part 2 Unbound",
       "url": "https://www.superpsx.com/the-fall-part-2-unbound-ps4-fpkg/"
-    },
-    {
-      "name": "The First Tree",
-      "url": "https://www.superpsx.com/the-first-tree-ps4-fpkg/"
     },
     {
       "name": "The Forest",
@@ -6077,10 +4657,6 @@
       "url": "https://www.superpsx.com/the-grand-tour-game-ps4-fpkg/"
     },
     {
-      "name": "The Great Ace Attorney Chronicles",
-      "url": "https://www.superpsx.com/the-great-ace-attorney-chronicles-ps4-fpkg/"
-    },
-    {
       "name": "The Great Perhaps",
       "url": "https://www.superpsx.com/the-great-perhaps-ps4-fpkg/"
     },
@@ -6093,24 +4669,12 @@
       "url": "https://www.superpsx.com/the-idolmster-starlit-season-ps4-fpkg/"
     },
     {
-      "name": "The Jumping Burger Climb",
-      "url": "https://www.superpsx.com/the-jumping-burger-climb-ps4-fpkg/"
-    },
-    {
       "name": "The King Fighters XV",
       "url": "https://www.superpsx.com/the-king-fighters-xv-ps4-fpkg/"
     },
     {
-      "name": "The King Of Fighters Xiii Global Match",
-      "url": "https://www.superpsx.com/the-king-of-fighters-xiii-global-match-ps4-fpkg/"
-    },
-    {
       "name": "The Kings Bird",
       "url": "https://www.superpsx.com/the-kings-bird-ps4-fpkg/"
-    },
-    {
-      "name": "The Knight Witch",
-      "url": "https://www.superpsx.com/the-knight-witch-ps4-fpkg/"
     },
     {
       "name": "The Last Campfire",
@@ -6145,20 +4709,8 @@
       "url": "https://www.superpsx.com/the-legend-of-heroes-trails-from-zero-deluxe-edition-ps4-fpkg/"
     },
     {
-      "name": "The Legend Of Heroes Trails Of Cold Steel III",
-      "url": "https://www.superpsx.com/the-legend-of-heroes-trails-of-cold-steel-iii-ps4-fpkg/"
-    },
-    {
-      "name": "The Legend Of Heroes Trails Of Cold Steel IV",
-      "url": "https://www.superpsx.com/the-legend-of-heroes-trails-of-cold-steel-iv-ps4-fpkg/"
-    },
-    {
       "name": "The Legend Of Heroes Trails Through Daybreak",
       "url": "https://www.superpsx.com/the-legend-of-heroes-trails-through-daybreak-ps4-fpkg/"
-    },
-    {
-      "name": "The Legend Of Heroes Trails Through Daybreak II",
-      "url": "https://www.superpsx.com/the-legend-of-heroes-trails-through-daybreak-ii-ps4-fpkg/"
     },
     {
       "name": "The Legend Of Heroes Trails To Azure",
@@ -6181,24 +4733,12 @@
       "url": "https://www.superpsx.com/the-legend-of-tianding-ps4-fpkg/"
     },
     {
-      "name": "The Lego Movie 2 Videogame",
-      "url": "https://www.superpsx.com/the-lego-movie-2-videogame-ps4-fpkg/"
-    },
-    {
-      "name": "The Lego Ninjago Movie Videogame",
-      "url": "https://www.superpsx.com/the-lego-ninjago-movie-videogame-ps4-fpkg/"
-    },
-    {
       "name": "The Long Journey Home 2",
       "url": "https://www.superpsx.com/the-long-journey-home-ps4-fpkg-2/"
     },
     {
       "name": "The Lord Of The Rings Gollum",
       "url": "https://www.superpsx.com/the-lord-of-the-rings-gollum-ps4-fpkg/"
-    },
-    {
-      "name": "The Lost Legends Of Redwall The Scout Anthology",
-      "url": "https://www.superpsx.com/the-lost-legends-of-redwall-the-scout-anthology-ps4-fpkg/"
     },
     {
       "name": "The Mageseeker A League Of Legends Story",
@@ -6209,20 +4749,12 @@
       "url": "https://www.superpsx.com/the-mooseman-ps4-fpkg/"
     },
     {
-      "name": "The Office Quest",
-      "url": "https://www.superpsx.com/the-office-quest-ps4-fpkg/"
-    },
-    {
       "name": "The Outer Worlds",
       "url": "https://www.superpsx.com/the-outer-worlds-ps4-fpkg/"
     },
     {
       "name": "The Pathless",
       "url": "https://www.superpsx.com/the-pathless-ps4-fpkg/"
-    },
-    {
-      "name": "The Persistence VR",
-      "url": "https://www.superpsx.com/the-persistence-vr-ps4-fpkg/"
     },
     {
       "name": "The Quarry",
@@ -6257,10 +4789,6 @@
       "url": "https://www.superpsx.com/the-skylia-prophecy-ps4-fpkg/"
     },
     {
-      "name": "The Sly Collection",
-      "url": "https://www.superpsx.com/the-sly-collection-ps4-fpkg/"
-    },
-    {
       "name": "The Smurfs 2",
       "url": "https://www.superpsx.com/the-smurfs-2-ps4-fpkg/"
     },
@@ -6273,24 +4801,8 @@
       "url": "https://www.superpsx.com/the-stanley-parable-ultra-deluxe-ps4-fpkg/"
     },
     {
-      "name": "The Suicide Of Rachel Foster",
-      "url": "https://www.superpsx.com/the-suicide-of-rachel-foster-ps4-fpkg/"
-    },
-    {
-      "name": "The Surge 2",
-      "url": "https://www.superpsx.com/the-surge-2-ps4-fpkg/"
-    },
-    {
-      "name": "The Surge Complete Edition",
-      "url": "https://www.superpsx.com/the-surge-complete-edition-ps4-fpkg/"
-    },
-    {
       "name": "The Survivalists",
       "url": "https://www.superpsx.com/the-survivalists-ps4-fpkg/"
-    },
-    {
-      "name": "The Swapper",
-      "url": "https://www.superpsx.com/the-swapper-ps4-fpkg/"
     },
     {
       "name": "The Takeover",
@@ -6317,14 +4829,6 @@
       "url": "https://www.superpsx.com/the-walking-dead-onslaught-ps4-fpkg/"
     },
     {
-      "name": "The Walking Dead Saints Sinners",
-      "url": "https://www.superpsx.com/the-walking-dead-saints-sinners-ps4-fpkg/"
-    },
-    {
-      "name": "The Walking Dead Saints Sinners Chapter 2 Retribution",
-      "url": "https://www.superpsx.com/the-walking-dead-saints-sinners-chapter-2-retribution-ps4-fpkg/"
-    },
-    {
       "name": "The Wardrobe",
       "url": "https://www.superpsx.com/the-wardrobe-ps4-fpkg/"
     },
@@ -6343,10 +4847,6 @@
     {
       "name": "Theatrhythm Final Bar Line",
       "url": "https://www.superpsx.com/theatrhythm-final-bar-line-ps4-fpkg/"
-    },
-    {
-      "name": "Thehunter Call Of The Wild",
-      "url": "https://www.superpsx.com/thehunter-call-of-the-wild-ps4-fpkg/"
     },
     {
       "name": "They Are Billions",
@@ -6377,10 +4877,6 @@
       "url": "https://www.superpsx.com/throw-anything-ps4-fpkg/"
     },
     {
-      "name": "Tiebreak",
-      "url": "https://www.superpsx.com/tiebreak-ps4-fpkg/"
-    },
-    {
       "name": "Timber Tennis Versus",
       "url": "https://www.superpsx.com/timber-tennis-versus-ps4-fpkg/"
     },
@@ -6405,6 +4901,10 @@
       "url": "https://www.superpsx.com/timespinner-ps4-fpkg/"
     },
     {
+      "name": "Timesplitters 2",
+      "url": "https://www.superpsx.com/timesplitters-2-ps4-fpkg/"
+    },
+    {
       "name": "Timothy And The Mysterious Forest",
       "url": "https://www.superpsx.com/timothy-and-the-mysterious-forest-ps4-fpkg/"
     },
@@ -6425,10 +4925,6 @@
       "url": "https://www.superpsx.com/tintin-reporter-ps4-fpkg/"
     },
     {
-      "name": "Tiny Tinas Wonderlands",
-      "url": "https://www.superpsx.com/tiny-tinas-wonderlands-ps4-fpkg/"
-    },
-    {
       "name": "Tiny Troopers Joint Ops Zombie Edition",
       "url": "https://www.superpsx.com/tiny-troopers-joint-ops-zombie-edition-ps4-fpkg/"
     },
@@ -6443,10 +4939,6 @@
     {
       "name": "Titan Chaser",
       "url": "https://www.superpsx.com/titan-chaser-ps4-fpkg/"
-    },
-    {
-      "name": "Tmnt Arcade Wrath",
-      "url": "https://www.superpsx.com/tmnt-arcade-wrath-ps4-fpkg/"
     },
     {
       "name": "Tmnt Shredders Revenge",
@@ -6477,14 +4969,6 @@
       "url": "https://www.superpsx.com/tokyo-ghoul-re-call-to-exist-ps4-fpkg/"
     },
     {
-      "name": "Tokyo Xanadu Ex Plus",
-      "url": "https://www.superpsx.com/tokyo-xanadu-ex-plus-ps4-fpkg/"
-    },
-    {
-      "name": "Tomb Raider Definitive Edition",
-      "url": "https://www.superpsx.com/tomb-raider-definitive-edition-ps4-fpkg/"
-    },
-    {
       "name": "Tomb Raider I III Remastered",
       "url": "https://www.superpsx.com/tomb-raider-i-iii-remastered-ps4-fpkg/"
     },
@@ -6495,10 +4979,6 @@
     {
       "name": "Tomb Raider Legend",
       "url": "https://www.superpsx.com/tomb-raider-legend-ps4-fpkg/"
-    },
-    {
-      "name": "Tony Hawks Pro Skater",
-      "url": "https://www.superpsx.com/tony-hawks-pro-skater-ps4-fpkg/"
     },
     {
       "name": "Tony Hawks Pro Skater 3 4",
@@ -6517,24 +4997,12 @@
       "url": "https://www.superpsx.com/topdee-and-topdee-ps4-fpkg/"
     },
     {
-      "name": "Topspin 2K25",
-      "url": "https://www.superpsx.com/topspin-2k25-ps4-fpkg/"
-    },
-    {
       "name": "Torchlight 2",
       "url": "https://www.superpsx.com/torchlight-2-ps4-fpkg/"
     },
     {
       "name": "Torchlight 3",
       "url": "https://www.superpsx.com/torchlight-3-ps4-fpkg/"
-    },
-    {
-      "name": "Toren",
-      "url": "https://www.superpsx.com/toren-ps4-fpkg/"
-    },
-    {
-      "name": "Tormented Souls",
-      "url": "https://www.superpsx.com/tormented-souls-ps4-fpkg/"
     },
     {
       "name": "Totally Reliable Delivery Service",
@@ -6565,14 +5033,6 @@
       "url": "https://www.superpsx.com/train-sim-world-2-ps4-fpkg/"
     },
     {
-      "name": "Train Sim World 3",
-      "url": "https://www.superpsx.com/train-sim-world-3-ps4-fpkg/"
-    },
-    {
-      "name": "Train Sim World 4",
-      "url": "https://www.superpsx.com/train-sim-world-4-ps4-fpkg/"
-    },
-    {
       "name": "Train Station Renovation",
       "url": "https://www.superpsx.com/train-station-renovation-ps4-fpkg/"
     },
@@ -6597,20 +5057,8 @@
       "url": "https://www.superpsx.com/transformers-galactic-trials-ps4-fpkg/"
     },
     {
-      "name": "Transport Fever 2 Console Edition",
-      "url": "https://www.superpsx.com/transport-fever-2-console-edition-ps4-fpkg/"
-    },
-    {
       "name": "Transport Giant",
       "url": "https://www.superpsx.com/transport-giant-ps4-fpkg/"
-    },
-    {
-      "name": "Transpose",
-      "url": "https://www.superpsx.com/transpose-ps4-fpkg/"
-    },
-    {
-      "name": "Trash Sailors",
-      "url": "https://www.superpsx.com/trash-sailors-ps4-fpkg/"
     },
     {
       "name": "Tri6 Infinite",
@@ -6649,10 +5097,6 @@
       "url": "https://www.superpsx.com/truck-and-logistics-simulator-ps4-fpkg/"
     },
     {
-      "name": "Tsugunohi Supernatural Supermarket",
-      "url": "https://www.superpsx.com/tsugunohi-supernatural-supermarket-ps4-fpkg/"
-    },
-    {
       "name": "Tt Isle Of Man Ride On The Edge 3",
       "url": "https://www.superpsx.com/tt-isle-of-man-ride-on-the-edge-3-ps4-fpkg/"
     },
@@ -6679,10 +5123,6 @@
     {
       "name": "Two Point Campus",
       "url": "https://www.superpsx.com/two-point-campus-ps4-fpkg/"
-    },
-    {
-      "name": "Two Point Hospital",
-      "url": "https://www.superpsx.com/two-point-hospital-ps4-fpkg/"
     },
     {
       "name": "Ty The Tasmanian Tiger",
@@ -6713,10 +5153,6 @@
       "url": "https://www.superpsx.com/ultros-ps4-fpkg/"
     },
     {
-      "name": "Umbrella Corps",
-      "url": "https://www.superpsx.com/umbrella-corps-ps4-fpkg/"
-    },
-    {
       "name": "Umihara Kawase Bazooka",
       "url": "https://www.superpsx.com/umihara-kawase-bazooka-ps4-fpkg/"
     },
@@ -6733,10 +5169,6 @@
       "url": "https://www.superpsx.com/uncanny-valley-ps4-fpkg/"
     },
     {
-      "name": "Uncharted The Nathan Drake Collection",
-      "url": "https://www.superpsx.com/uncharted-the-nathan-drake-collection-ps4-fpkg/"
-    },
-    {
       "name": "Under Night In Birth Exe Latecl R",
       "url": "https://www.superpsx.com/under-night-in-birth-exe-latecl-r-ps4-fpkg/"
     },
@@ -6745,16 +5177,8 @@
       "url": "https://www.superpsx.com/under-night-in-birth-exe-latest-ps4-fpkg/"
     },
     {
-      "name": "Under Night In Birth II Sysceles",
-      "url": "https://www.superpsx.com/under-night-in-birth-ii-sysceles-ps4-fpkg/"
-    },
-    {
       "name": "Under The Waves",
       "url": "https://www.superpsx.com/under-the-waves-ps4-fpkg/"
-    },
-    {
-      "name": "Undermine",
-      "url": "https://www.superpsx.com/undermine-ps4-fpkg/"
     },
     {
       "name": "Undernauts Labyrinth Of Yomi",
@@ -6777,10 +5201,6 @@
       "url": "https://www.superpsx.com/united-assault-world-war-2-ps4-fpkg/"
     },
     {
-      "name": "Unknown 9 Awakening",
-      "url": "https://www.superpsx.com/unknown-9-awakening-ps4-fpkg/"
-    },
-    {
       "name": "Unmetal",
       "url": "https://www.superpsx.com/unmetal-ps4-fpkg/"
     },
@@ -6797,10 +5217,6 @@
       "url": "https://www.superpsx.com/unravel-two-ps4-fpkg/"
     },
     {
-      "name": "Unruly Heroes",
-      "url": "https://www.superpsx.com/unruly-heroes-ps4-fpkg/"
-    },
-    {
       "name": "Unspottable",
       "url": "https://www.superpsx.com/unspottable-ps4-fpkg/"
     },
@@ -6809,16 +5225,8 @@
       "url": "https://www.superpsx.com/until-dawn-ps4-fpkg/"
     },
     {
-      "name": "Until Dawn Rush Of Blood VR",
-      "url": "https://www.superpsx.com/until-dawn-rush-of-blood-vr-ps4-fpkg/"
-    },
-    {
       "name": "Unto The End",
       "url": "https://www.superpsx.com/unto-the-end-ps4-fpkg/"
-    },
-    {
-      "name": "Unturned",
-      "url": "https://www.superpsx.com/unturned-ps4-fpkg/"
     },
     {
       "name": "Utawarerumono Zan 2",
@@ -6827,10 +5235,6 @@
     {
       "name": "Vacation Simulator",
       "url": "https://www.superpsx.com/vacation-simulator-ps4-fpkg/"
-    },
-    {
-      "name": "Valiant Hearts Home",
-      "url": "https://www.superpsx.com/valiant-hearts-home-ps4-fpkg/"
     },
     {
       "name": "Valkyria Chronicles 4",
@@ -6845,10 +5249,6 @@
       "url": "https://www.superpsx.com/valthirian-arc-hero-school-story-ps4-fpkg/"
     },
     {
-      "name": "Vampire Masquerade Shadows New York",
-      "url": "https://www.superpsx.com/vampire-masquerade-shadows-new-york-ps4-fpkg/"
-    },
-    {
       "name": "Vampire Masquerade Swansong",
       "url": "https://www.superpsx.com/vampire-masquerade-swansong-ps4-fpkg/"
     },
@@ -6857,28 +5257,12 @@
       "url": "https://www.superpsx.com/vampire-survivors-ps4-fpkg/"
     },
     {
-      "name": "Vampire The Masquerade Coteries Of New York",
-      "url": "https://www.superpsx.com/vampire-the-masquerade-coteries-of-new-york-ps4-fpkg/"
-    },
-    {
       "name": "Vampyr",
       "url": "https://www.superpsx.com/vampyr-ps4-fpkg/"
     },
     {
-      "name": "Vanquish",
-      "url": "https://www.superpsx.com/vanquish-ps4-fpkg/"
-    },
-    {
       "name": "Ved",
       "url": "https://www.superpsx.com/ved-ps4-fpkg/"
-    },
-    {
-      "name": "Venus Vacation Prism Dead Or Alive Xtreme",
-      "url": "https://www.superpsx.com/venus-vacation-prism-dead-or-alive-xtreme-ps4-fpkg/"
-    },
-    {
-      "name": "Vernal Edge",
-      "url": "https://www.superpsx.com/vernal-edge-ps4-fpkg/"
     },
     {
       "name": "Victor Vran Overkill Edition",
@@ -6897,10 +5281,6 @@
       "url": "https://www.superpsx.com/virtuaverse-ps4-fpkg/"
     },
     {
-      "name": "Visage",
-      "url": "https://www.superpsx.com/visage-ps4-fpkg/"
-    },
-    {
       "name": "Void Bastards",
       "url": "https://www.superpsx.com/void-bastards-ps4-fpkg/"
     },
@@ -6913,16 +5293,8 @@
       "url": "https://www.superpsx.com/vostok-2061-ps4-fpkg/"
     },
     {
-      "name": "VR Karts",
-      "url": "https://www.superpsx.com/vr-karts-ps4-fpkg/"
-    },
-    {
       "name": "Vroom Kaboom",
       "url": "https://www.superpsx.com/vroom-kaboom-ps4-fpkg/"
-    },
-    {
-      "name": "Walking Dead Definitive Series",
-      "url": "https://www.superpsx.com/walking-dead-definitive-series-ps4-fpkg/"
     },
     {
       "name": "Wally And The Fantastic Predators",
@@ -6939,10 +5311,6 @@
     {
       "name": "Wanted Dead",
       "url": "https://www.superpsx.com/wanted-dead-ps4-fpkg/"
-    },
-    {
-      "name": "War Tech Fighters",
-      "url": "https://www.superpsx.com/war-tech-fighters-ps4-fpkg/"
     },
     {
       "name": "Warborn",
@@ -6965,10 +5333,6 @@
       "url": "https://www.superpsx.com/wasteland-3-ps4-fpkg/"
     },
     {
-      "name": "Watch Dogs",
-      "url": "https://www.superpsx.com/watch-dogs-ps4-fpkg/"
-    },
-    {
       "name": "Watch Dogs Complete Edition",
       "url": "https://www.superpsx.com/watch-dogs-complete-edition-ps4-fpkg/"
     },
@@ -6985,20 +5349,12 @@
       "url": "https://www.superpsx.com/webbed-ps4-fpkg/"
     },
     {
-      "name": "Weedcraft Inc",
-      "url": "https://www.superpsx.com/weedcraft-inc-ps4-fpkg/"
-    },
-    {
       "name": "Weird West",
       "url": "https://www.superpsx.com/weird-west-ps4-fpkg/"
     },
     {
       "name": "Wer Weiss Denn Sowas Das 3 Spiel",
       "url": "https://www.superpsx.com/wer-weiss-denn-sowas-das-3-spiel-ps4-fpkg/"
-    },
-    {
-      "name": "Werewolf The Apocalypse Earthblood",
-      "url": "https://www.superpsx.com/werewolf-the-apocalypse-earthblood-ps4-fpkg/"
     },
     {
       "name": "Werewolf The Apocalypse Heart Of The Forest",
@@ -7009,16 +5365,8 @@
       "url": "https://www.superpsx.com/west-of-dead-potc-ps4-fpkg/"
     },
     {
-      "name": "What Lies In The Multiverse",
-      "url": "https://www.superpsx.com/what-lies-in-the-multiverse-ps4-fpkg/"
-    },
-    {
       "name": "What Remains Of Edith Finch",
       "url": "https://www.superpsx.com/what-remains-of-edith-finch-ps4-fpkg/"
-    },
-    {
-      "name": "Who Wants To Be A Millionaire",
-      "url": "https://www.superpsx.com/who-wants-to-be-a-millionaire-ps4-fpkg/"
     },
     {
       "name": "Wife Quest",
@@ -7033,10 +5381,6 @@
       "url": "https://www.superpsx.com/wildshade-unicorn-champions-ps4-fpkg/"
     },
     {
-      "name": "Will Wonderful World",
-      "url": "https://www.superpsx.com/will-wonderful-world-ps4-fpkg/"
-    },
-    {
       "name": "Windbound",
       "url": "https://www.superpsx.com/windbound-ps4-fpkg/"
     },
@@ -7047,10 +5391,6 @@
     {
       "name": "Windlands 2",
       "url": "https://www.superpsx.com/windlands-2-ps4-fpkg/"
-    },
-    {
-      "name": "Winds Leaves VR",
-      "url": "https://www.superpsx.com/winds-leaves-vr-ps4-fpkg/"
     },
     {
       "name": "Windstorm",
@@ -7071,10 +5411,6 @@
     {
       "name": "Wo Long Fallen Dynasty",
       "url": "https://www.superpsx.com/wo-long-fallen-dynasty-ps4-fpkg/"
-    },
-    {
-      "name": "Wolfenstein Cyberpilot",
-      "url": "https://www.superpsx.com/wolfenstein-cyberpilot-ps4-fpkg/"
     },
     {
       "name": "Wonder Boy Asha In Monster World",
@@ -7101,16 +5437,8 @@
       "url": "https://www.superpsx.com/world-war-z-ps4-fpkg/"
     },
     {
-      "name": "Wrath Aeon Of Ruin",
-      "url": "https://www.superpsx.com/wrath-aeon-of-ruin-ps4-fpkg/"
-    },
-    {
       "name": "Wrc 10",
       "url": "https://www.superpsx.com/wrc-10-ps4-fpkg/"
-    },
-    {
-      "name": "Wrc Generations The Fia Wrc Official Game",
-      "url": "https://www.superpsx.com/wrc-generations-the-fia-wrc-official-game-ps4-fpkg/"
     },
     {
       "name": "Wreckfest Deluxe Edition",
@@ -7129,20 +5457,12 @@
       "url": "https://www.superpsx.com/wuppo-special-edition-ps4-fpkg/"
     },
     {
-      "name": "Wwe 2K23",
-      "url": "https://www.superpsx.com/wwe-2k23-ps4-fpkg/"
-    },
-    {
       "name": "Wwe 2K24",
       "url": "https://www.superpsx.com/wwe-2k24-ps4-fpkg/"
     },
     {
       "name": "Wwe 2K25",
       "url": "https://www.superpsx.com/wwe-2k25-ps4-fpkg/"
-    },
-    {
-      "name": "Xcom 2 Collection",
-      "url": "https://www.superpsx.com/xcom-2-collection-ps4-fpkg/"
     },
     {
       "name": "Xiii Remake",
@@ -7171,10 +5491,6 @@
     {
       "name": "Yakuza Kiwami 2",
       "url": "https://www.superpsx.com/yakuza-kiwami-2-ps4-fpkg/"
-    },
-    {
-      "name": "Yakuza Like A Dragon",
-      "url": "https://www.superpsx.com/yakuza-like-a-dragon-ps4-fpkg/"
     },
     {
       "name": "Yet Another Zombie Defense HD",
