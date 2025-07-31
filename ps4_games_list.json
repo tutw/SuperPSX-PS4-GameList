@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-30",
+  "timestamp": "2025-07-31",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1805,
+  "total_games": 1807,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -579,6 +579,10 @@
     {
       "name": "Below",
       "url": "https://www.superpsx.com/below-ps4-fpkg/"
+    },
+    {
+      "name": "Bendy And The Dark Revival",
+      "url": "https://www.superpsx.com/bendy-and-the-dark-revival-ps4-fpkg/"
     },
     {
       "name": "Beyond A Steel Sky",
@@ -2935,6 +2939,10 @@
     {
       "name": "Jak Combat Racing",
       "url": "https://www.superpsx.com/jak-combat-racing-ps4-fpkg/"
+    },
+    {
+      "name": "Jeanne D Arc",
+      "url": "https://www.superpsx.com/jeanne-d-arc-ps4-fpkg/"
     },
     {
       "name": "Jinki Resurrection",
