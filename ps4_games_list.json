@@ -2,7 +2,7 @@
   "timestamp": "2025-08-03",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1813,
+  "total_games": 1816,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -821,6 +821,10 @@
       "url": "https://www.superpsx.com/broken-pieces-ps4-fpkg/"
     },
     {
+      "name": "Brotato",
+      "url": "https://www.superpsx.com/brotato-ps4-fpkg/"
+    },
+    {
       "name": "Brothers A Tale Of Two Sons",
       "url": "https://www.superpsx.com/brothers-a-tale-of-two-sons-ps4-fpkg/"
     },
@@ -931,6 +935,10 @@
     {
       "name": "Carto",
       "url": "https://www.superpsx.com/carto-ps4-fpkg/"
+    },
+    {
+      "name": "Case Animatronics",
+      "url": "https://www.superpsx.com/case-animatronics-ps4-fpkg/"
     },
     {
       "name": "Castle Crashers Remastered",
@@ -1799,6 +1807,10 @@
     {
       "name": "Dust An Elysian Tail",
       "url": "https://www.superpsx.com/dust-an-elysian-tail-ps4-fpkg/"
+    },
+    {
+      "name": "Dying Light Definitive Edition",
+      "url": "https://www.superpsx.com/dying-light-definitive-edition-ps4-fpkg/"
     },
     {
       "name": "Dynasty Warriors 8 Empires",
