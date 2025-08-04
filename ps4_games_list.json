@@ -2,7 +2,7 @@
   "timestamp": "2025-08-04",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1816,
+  "total_games": 1817,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -6695,6 +6695,10 @@
     {
       "name": "Tunic",
       "url": "https://www.superpsx.com/tunic-ps4-fpkg/"
+    },
+    {
+      "name": "Turbo Overkill",
+      "url": "https://www.superpsx.com/turbo-overkill-ps4-fpkg/"
     },
     {
       "name": "Turnip Boy Commits Tax Evasion",
