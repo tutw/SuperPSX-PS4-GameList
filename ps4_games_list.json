@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-07",
+  "timestamp": "2025-08-08",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1818,
+  "total_games": 1820,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -5797,6 +5797,10 @@
       "url": "https://www.superpsx.com/tactics-ogre-reborn-ps4-fpkg/"
     },
     {
+      "name": "Tad The Lost Explorer",
+      "url": "https://www.superpsx.com/tad-the-lost-explorer-ps4-fpkg/"
+    },
+    {
       "name": "Taiko No Tatsujin Ds",
       "url": "https://www.superpsx.com/taiko-no-tatsujin-ds-ps4-fpkg/"
     },
@@ -6831,6 +6835,10 @@
     {
       "name": "Uno",
       "url": "https://www.superpsx.com/uno-ps4-fpkg/"
+    },
+    {
+      "name": "Unpacking",
+      "url": "https://www.superpsx.com/unpacking-ps4-fpkg/"
     },
     {
       "name": "Unrailed",
