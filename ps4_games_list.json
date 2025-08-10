@@ -2,7 +2,7 @@
   "timestamp": "2025-08-10",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1820,
+  "total_games": 1823,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2145,6 +2145,10 @@
       "url": "https://www.superpsx.com/final-fantasy-ix-ps4-fpkg/"
     },
     {
+      "name": "Final Fantasy Type 0 HD Day One Edition",
+      "url": "https://www.superpsx.com/final-fantasy-type-0-hd-day-one-edition-ps4-fpkg/"
+    },
+    {
       "name": "Final Fantasy VII Remake",
       "url": "https://www.superpsx.com/final-fantasy-vii-remake-ps4-fpkg/"
     },
@@ -3011,6 +3015,10 @@
     {
       "name": "Jump King",
       "url": "https://www.superpsx.com/jump-king-ps4-fpkg/"
+    },
+    {
+      "name": "Jupiter Mars",
+      "url": "https://www.superpsx.com/jupiter-mars-ps4-fpkg/"
     },
     {
       "name": "Jurassic World Evolution 2",
@@ -6387,6 +6395,10 @@
     {
       "name": "Thehunter Call Of The Wild",
       "url": "https://www.superpsx.com/thehunter-call-of-the-wild-ps4-fpkg/"
+    },
+    {
+      "name": "They Always Run",
+      "url": "https://www.superpsx.com/they-always-run-ps4-fpkg/"
     },
     {
       "name": "They Are Billions",
