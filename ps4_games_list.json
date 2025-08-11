@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-10",
+  "timestamp": "2025-08-11",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1823,
+  "total_games": 1826,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4961,6 +4961,10 @@
       "url": "https://www.superpsx.com/salt-and-sanctuary-ps4-fpkg/"
     },
     {
+      "name": "Sam Max Save The World",
+      "url": "https://www.superpsx.com/sam-max-save-the-world-ps4-fpkg/"
+    },
+    {
       "name": "Sam Max This Time Its Virtual",
       "url": "https://www.superpsx.com/sam-max-this-time-its-virtual-ps4-fpkg/"
     },
@@ -6697,6 +6701,10 @@
       "url": "https://www.superpsx.com/trivial-pursuit-live-2-ps4-fpkg/"
     },
     {
+      "name": "Tropico 6",
+      "url": "https://www.superpsx.com/tropico-6-ps4-fpkg/"
+    },
+    {
       "name": "Truberbrook",
       "url": "https://www.superpsx.com/truberbrook-ps4-fpkg/"
     },
@@ -6747,6 +6755,10 @@
     {
       "name": "Ty The Tasmanian Tiger",
       "url": "https://www.superpsx.com/ty-the-tasmanian-tiger-ps4-fpkg/"
+    },
+    {
+      "name": "UFC 3",
+      "url": "https://www.superpsx.com/ufc-3-ps4-fpkg/"
     },
     {
       "name": "UFC 4",
