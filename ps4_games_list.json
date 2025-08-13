@@ -2,7 +2,7 @@
   "timestamp": "2025-08-13",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1828,
+  "total_games": 1829,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -503,6 +503,10 @@
     {
       "name": "Balan Wonderworld",
       "url": "https://www.superpsx.com/balan-wonderworld-ps4-fpkg/"
+    },
+    {
+      "name": "Balatro",
+      "url": "https://www.superpsx.com/balatro-ps4-fpkg/"
     },
     {
       "name": "Baldo The Guardian Owls",
