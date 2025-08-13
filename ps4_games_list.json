@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-12",
+  "timestamp": "2025-08-13",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1826,
+  "total_games": 1828,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3597,6 +3597,10 @@
       "url": "https://www.superpsx.com/mega-man-battle-network-legacy-collection-ps4-fpkg/"
     },
     {
+      "name": "Mega Man Legacy Collection",
+      "url": "https://www.superpsx.com/mega-man-legacy-collection-ps4-fpkg/"
+    },
+    {
       "name": "Mega Man X Legacy Collection 1 2",
       "url": "https://www.superpsx.com/mega-man-x-legacy-collection-1-2-ps4-fpkg/"
     },
@@ -4011,6 +4015,10 @@
     {
       "name": "Neversong",
       "url": "https://www.superpsx.com/neversong-ps4-fpkg/"
+    },
+    {
+      "name": "Neverwinter Nights Enhanced Edition",
+      "url": "https://www.superpsx.com/neverwinter-nights-enhanced-edition-ps4-fpkg/"
     },
     {
       "name": "New Joe Mac Caveman Ninja",
