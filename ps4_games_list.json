@@ -2,7 +2,7 @@
   "timestamp": "2025-08-14",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1829,
+  "total_games": 1832,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3589,6 +3589,10 @@
       "url": "https://www.superpsx.com/mechwarrior-5-mercenaries-ps4-fpkg/"
     },
     {
+      "name": "Medievil",
+      "url": "https://www.superpsx.com/medievil-ps4-fpkg/"
+    },
+    {
       "name": "Medievil II",
       "url": "https://www.superpsx.com/medievil-ii-ps4-fpkg/"
     },
@@ -4075,6 +4079,10 @@
     {
       "name": "Nidhogg 2",
       "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+    },
+    {
+      "name": "Nidhogg 2",
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -6663,6 +6671,10 @@
     {
       "name": "Transformers Earthspark Expedition",
       "url": "https://www.superpsx.com/transformers-earthspark-expedition-ps4-fpkg/"
+    },
+    {
+      "name": "Transformers Fall Of Cybertron",
+      "url": "https://www.superpsx.com/transformers-fall-of-cybertron-ps4-fpkg/"
     },
     {
       "name": "Transformers Galactic Trials",
