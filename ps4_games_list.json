@@ -2,7 +2,7 @@
   "timestamp": "2025-08-15",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1832,
+  "total_games": 1831,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1615,10 +1615,6 @@
     {
       "name": "Disney Dreamlight Valley",
       "url": "https://www.superpsx.com/disney-dreamlight-valley-ps4-fpkg/"
-    },
-    {
-      "name": "Disney Epic Mickey Rebrushed",
-      "url": "https://www.superpsx.com/disney-epic-mickey-rebrushed-ps4-fpkg/"
     },
     {
       "name": "Disney Pixar Toy Story 3",
@@ -6725,10 +6721,6 @@
       "url": "https://www.superpsx.com/trivial-pursuit-live-2-ps4-fpkg/"
     },
     {
-      "name": "Tropico 6",
-      "url": "https://www.superpsx.com/tropico-6-ps4-fpkg/"
-    },
-    {
       "name": "Truberbrook",
       "url": "https://www.superpsx.com/truberbrook-ps4-fpkg/"
     },
@@ -7331,6 +7323,10 @@
     {
       "name": "Zombie Driver Ie",
       "url": "https://www.superpsx.com/zombie-driver-ie-ps4-fpkg/"
+    },
+    {
+      "name": "Zorro The Chronicles",
+      "url": "https://www.superpsx.com/zorro-the-chronicles-ps4-fpkg/"
     }
   ]
 }
