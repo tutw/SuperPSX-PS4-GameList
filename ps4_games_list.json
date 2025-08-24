@@ -2,7 +2,7 @@
   "timestamp": "2025-08-24",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1831,
+  "total_games": 1832,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2267,6 +2267,10 @@
     {
       "name": "Full Throttle Remastered",
       "url": "https://www.superpsx.com/full-throttle-remastered-ps4-fpkg/"
+    },
+    {
+      "name": "Funko Fusion",
+      "url": "https://www.superpsx.com/funko-fusion-ps4-fpkg/"
     },
     {
       "name": "Fury Unleashed",
