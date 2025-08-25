@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-24",
+  "timestamp": "2025-08-25",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1832,
+  "total_games": 1833,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4199,6 +4199,10 @@
     {
       "name": "Olympic Games Tokyo 2020",
       "url": "https://www.superpsx.com/olympic-games-tokyo-2020-ps4-fpkg/"
+    },
+    {
+      "name": "Omori",
+      "url": "https://www.superpsx.com/omori-ps4-fpkg/"
     },
     {
       "name": "On The Road The Truck Simulator",
