@@ -2,7 +2,7 @@
   "timestamp": "2025-08-27",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1834,
+  "total_games": 1836,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1495,6 +1495,10 @@
     {
       "name": "Deliver Us The Moon",
       "url": "https://www.superpsx.com/deliver-us-the-moon-ps4-fpkg/"
+    },
+    {
+      "name": "Deltarune",
+      "url": "https://www.superpsx.com/deltarune-ps4-fpkg/"
     },
     {
       "name": "Demon Skin",
@@ -4171,6 +4175,10 @@
     {
       "name": "Oddworld Soulstorm",
       "url": "https://www.superpsx.com/oddworld-soulstorm-ps4-fpkg/"
+    },
+    {
+      "name": "Odin Sphere Leifthrasir",
+      "url": "https://www.superpsx.com/odin-sphere-leifthrasir-ps4-fpkg/"
     },
     {
       "name": "Offroad Racing Buggy X Atv X Moto",
