@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-26",
+  "timestamp": "2025-08-27",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1833,
+  "total_games": 1834,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -5187,6 +5187,10 @@
     {
       "name": "Shin Megami Tensei V Vengeance",
       "url": "https://www.superpsx.com/shin-megami-tensei-v-vengeance-ps4-fpkg/"
+    },
+    {
+      "name": "Shinobi Art Of Vengeance Digital Deluxe Edition",
+      "url": "https://www.superpsx.com/shinobi-art-of-vengeance-digital-deluxe-edition-ps4-fpkg/"
     },
     {
       "name": "Shooty Fruity",
