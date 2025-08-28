@@ -2,7 +2,7 @@
   "timestamp": "2025-08-28",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1836,
+  "total_games": 1838,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -6457,6 +6457,10 @@
       "url": "https://www.superpsx.com/think-of-the-children-ps4-fpkg/"
     },
     {
+      "name": "This Is The Police 2",
+      "url": "https://www.superpsx.com/this-is-the-police-2-ps4-fpkg/"
+    },
+    {
       "name": "This Is The Zodiac Speaking",
       "url": "https://www.superpsx.com/this-is-the-zodiac-speaking-ps4-fpkg/"
     },
@@ -7063,6 +7067,10 @@
     {
       "name": "Warhammer 40000 Shootas Blood Teef",
       "url": "https://www.superpsx.com/warhammer-40000-shootas-blood-teef-ps4-fpkg/"
+    },
+    {
+      "name": "Warhammer Chaosbane",
+      "url": "https://www.superpsx.com/warhammer-chaosbane-ps4-fpkg/"
     },
     {
       "name": "Warm Snow",
