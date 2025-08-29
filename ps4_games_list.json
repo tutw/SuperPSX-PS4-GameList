@@ -2,7 +2,7 @@
   "timestamp": "2025-08-29",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1838,
+  "total_games": 1841,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1799,6 +1799,10 @@
     {
       "name": "Dungeons Of The Hinterberg",
       "url": "https://www.superpsx.com/dungeons-of-the-hinterberg-ps4-fpkg/"
+    },
+    {
+      "name": "Dusk",
+      "url": "https://www.superpsx.com/dusk-ps4-fpkg/"
     },
     {
       "name": "Dusk Diver",
@@ -3713,6 +3717,10 @@
       "url": "https://www.superpsx.com/minoria-ps4-fpkg/"
     },
     {
+      "name": "Mister Mosquito",
+      "url": "https://www.superpsx.com/mister-mosquito-ps4-fpkg/"
+    },
+    {
       "name": "Mlb The Show",
       "url": "https://www.superpsx.com/mlb-the-show-ps4-fpkg/"
     },
@@ -4082,11 +4090,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -5951,6 +5959,10 @@
     {
       "name": "Tetris Effect",
       "url": "https://www.superpsx.com/tetris-effect-ps4-fpkg/"
+    },
+    {
+      "name": "Tetris Ultimate",
+      "url": "https://www.superpsx.com/tetris-ultimate-ps4-fpkg/"
     },
     {
       "name": "The Adventure Pals",
