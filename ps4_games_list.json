@@ -2,7 +2,7 @@
   "timestamp": "2025-08-30",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1841,
+  "total_games": 1842,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2907,6 +2907,10 @@
     {
       "name": "Infinite Beyond The Mind",
       "url": "https://www.superpsx.com/infinite-beyond-the-mind-ps4-fpkg/"
+    },
+    {
+      "name": "Infinity Strash Dragon Quest The Adventure Of Dai",
+      "url": "https://www.superpsx.com/infinity-strash-dragon-quest-the-adventure-of-dai-ps4-fpkg/"
     },
     {
       "name": "Infliction Extended Cut",
