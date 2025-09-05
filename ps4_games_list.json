@@ -2,7 +2,7 @@
   "timestamp": "2025-09-05",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1842,
+  "total_games": 1843,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2739,6 +2739,10 @@
     {
       "name": "Hokko Life",
       "url": "https://www.superpsx.com/hokko-life-ps4-fpkg/"
+    },
+    {
+      "name": "Hollow Knight Silksong",
+      "url": "https://www.superpsx.com/hollow-knight-silksong-ps4-fpkg/"
     },
     {
       "name": "Hollow Knight Voidheart Edition",
