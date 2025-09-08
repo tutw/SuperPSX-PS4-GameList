@@ -2,7 +2,7 @@
   "timestamp": "2025-09-08",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1844,
+  "total_games": 1845,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4102,11 +4102,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -7007,6 +7007,10 @@
     {
       "name": "Vanquish",
       "url": "https://www.superpsx.com/vanquish-ps4-fpkg/"
+    },
+    {
+      "name": "Various Daylife",
+      "url": "https://www.superpsx.com/various-daylife-ps4-fpkg/"
     },
     {
       "name": "Ved",
