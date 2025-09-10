@@ -2,7 +2,7 @@
   "timestamp": "2025-09-10",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1846,
+  "total_games": 1847,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1507,6 +1507,10 @@
     {
       "name": "Demon Slayer",
       "url": "https://www.superpsx.com/demon-slayer-ps4-fpkg/"
+    },
+    {
+      "name": "Demon Slayer Kimetsu No Yaiba The Hinokami Chronicles 2",
+      "url": "https://www.superpsx.com/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-ps4-fpkg/"
     },
     {
       "name": "Demon Turf",
