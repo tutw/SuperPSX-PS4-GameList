@@ -2,7 +2,7 @@
   "timestamp": "2025-09-18",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1848,
+  "total_games": 1847,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3407,10 +3407,6 @@
     {
       "name": "Little Witch Nobeta",
       "url": "https://www.superpsx.com/little-witch-nobeta-ps4-fpkg/"
-    },
-    {
-      "name": "Littlebigplanet 3",
-      "url": "https://www.superpsx.com/littlebigplanet-3-ps4-fpkg/"
     },
     {
       "name": "Live A Live",
