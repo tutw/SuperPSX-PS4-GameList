@@ -2,7 +2,7 @@
   "timestamp": "2025-09-20",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1848,
+  "total_games": 1851,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -783,6 +783,10 @@
     {
       "name": "Borderlands The Handsome Collection",
       "url": "https://www.superpsx.com/borderlands-the-handsome-collection-ps4-fpkg/"
+    },
+    {
+      "name": "Boulder Dash 40Th Anniversary",
+      "url": "https://www.superpsx.com/boulder-dash-40th-anniversary-ps4-fpkg/"
     },
     {
       "name": "Bounty Battle",
@@ -3167,6 +3171,14 @@
     {
       "name": "Knack 2",
       "url": "https://www.superpsx.com/knack-2-ps4-fpkg/"
+    },
+    {
+      "name": "Knowledge Is Power",
+      "url": "https://www.superpsx.com/knowledge-is-power-ps4-fpkg/"
+    },
+    {
+      "name": "Knowledge Is Power Decades",
+      "url": "https://www.superpsx.com/knowledge-is-power-decades-ps4-fpkg/"
     },
     {
       "name": "Koi",
