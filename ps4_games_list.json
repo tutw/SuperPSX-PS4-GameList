@@ -2,7 +2,7 @@
   "timestamp": "2025-09-22",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1851,
+  "total_games": 1852,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -7203,6 +7203,10 @@
     {
       "name": "Will Wonderful World",
       "url": "https://www.superpsx.com/will-wonderful-world-ps4-fpkg/"
+    },
+    {
+      "name": "Willy Morgan And The Curse Of Bone Town",
+      "url": "https://www.superpsx.com/willy-morgan-and-the-curse-of-bone-town-ps4-fpkg/"
     },
     {
       "name": "Windbound",
