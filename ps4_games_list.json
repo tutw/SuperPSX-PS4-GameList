@@ -2,7 +2,7 @@
   "timestamp": "2025-09-24",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1854,
+  "total_games": 1856,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1771,6 +1771,10 @@
     {
       "name": "Dreamworks All Star Kart Racing",
       "url": "https://www.superpsx.com/dreamworks-all-star-kart-racing-ps4-fpkg/"
+    },
+    {
+      "name": "Dreamworks Gabbys Dollhouse Ready To Party",
+      "url": "https://www.superpsx.com/dreamworks-gabbys-dollhouse-ready-to-party-ps4-fpkg/"
     },
     {
       "name": "Dreamworks Trolls Remix Rescue",
@@ -4122,11 +4126,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -4391,6 +4395,10 @@
     {
       "name": "Pac Man World Re Pac",
       "url": "https://www.superpsx.com/pac-man-world-re-pac-ps4-fpkg/"
+    },
+    {
+      "name": "Paleo Pines",
+      "url": "https://www.superpsx.com/paleo-pines-ps4-fpkg/"
     },
     {
       "name": "Panzer Dragoon Remake",
