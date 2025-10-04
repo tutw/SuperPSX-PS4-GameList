@@ -2,7 +2,7 @@
   "timestamp": "2025-10-04",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1858,
+  "total_games": 1859,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4011,6 +4011,10 @@
     {
       "name": "NBA 2K25",
       "url": "https://www.superpsx.com/nba-2k25-ps4-fpkg/"
+    },
+    {
+      "name": "NBA Bounce",
+      "url": "https://www.superpsx.com/nba-bounce-ps4-fpkg/"
     },
     {
       "name": "NBA Live 19 The One Edition",
