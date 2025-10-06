@@ -2,7 +2,7 @@
   "timestamp": "2025-10-06",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1860,
+  "total_games": 1862,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -6829,6 +6829,10 @@
       "url": "https://www.superpsx.com/tsugunohi-supernatural-supermarket-ps4-fpkg/"
     },
     {
+      "name": "Tsukihime A Piece Of Blue Glass Moon",
+      "url": "https://www.superpsx.com/tsukihime-a-piece-of-blue-glass-moon-ps4-fpkg/"
+    },
+    {
       "name": "Tt Isle Of Man Ride On The Edge 3",
       "url": "https://www.superpsx.com/tt-isle-of-man-ride-on-the-edge-3-ps4-fpkg/"
     },
@@ -7115,6 +7119,10 @@
     {
       "name": "Walking Dead Definitive Series",
       "url": "https://www.superpsx.com/walking-dead-definitive-series-ps4-fpkg/"
+    },
+    {
+      "name": "Wallachia Reign Of Dracula",
+      "url": "https://www.superpsx.com/wallachia-reign-of-dracula-ps4-fpkg/"
     },
     {
       "name": "Wally And The Fantastic Predators",
