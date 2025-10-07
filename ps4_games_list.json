@@ -2,7 +2,7 @@
   "timestamp": "2025-10-07",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1862,
+  "total_games": 1866,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3069,6 +3069,10 @@
       "url": "https://www.superpsx.com/just-cause-4-ps4-fpkg/"
     },
     {
+      "name": "Just Dance 2017",
+      "url": "https://www.superpsx.com/just-dance-2017-ps4-fpkg/"
+    },
+    {
       "name": "Just Dance 2019",
       "url": "https://www.superpsx.com/just-dance-2019-ps4-fpkg/"
     },
@@ -3749,6 +3753,14 @@
       "url": "https://www.superpsx.com/minecraft-legends-ps4-fpkg/"
     },
     {
+      "name": "Minecraft Story Mode A Telltale Games Series The Complete Adventure",
+      "url": "https://www.superpsx.com/minecraft-story-mode-a-telltale-games-series-the-complete-adventure-ps4-fpkg/"
+    },
+    {
+      "name": "Minecraft Story Mode Season Two The Telltale Series",
+      "url": "https://www.superpsx.com/minecraft-story-mode-season-two-the-telltale-series-ps4-fpkg/"
+    },
+    {
       "name": "Minit",
       "url": "https://www.superpsx.com/minit-ps4-fpkg/"
     },
@@ -4134,11 +4146,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -4919,6 +4931,10 @@
     {
       "name": "Robotics Notes Elite",
       "url": "https://www.superpsx.com/robotics-notes-elite-ps4-fpkg/"
+    },
+    {
+      "name": "Rock Band 4",
+      "url": "https://www.superpsx.com/rock-band-4-ps4-fpkg/"
     },
     {
       "name": "Rock Of Ages 3 Make Break",
