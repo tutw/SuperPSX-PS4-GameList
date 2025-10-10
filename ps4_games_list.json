@@ -2,7 +2,7 @@
   "timestamp": "2025-10-10",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1866,
+  "total_games": 1867,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3419,6 +3419,10 @@
     {
       "name": "Little Nightmares II",
       "url": "https://www.superpsx.com/little-nightmares-ii-ps4-fpkg/"
+    },
+    {
+      "name": "Little Nightmares III Deluxe Edition",
+      "url": "https://www.superpsx.com/little-nightmares-iii-deluxe-edition-ps4-fpkg/"
     },
     {
       "name": "Little Town Hero",
