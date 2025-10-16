@@ -2,7 +2,7 @@
   "timestamp": "2025-10-16",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1867,
+  "total_games": 1869,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1759,6 +1759,10 @@
     {
       "name": "Draugen",
       "url": "https://www.superpsx.com/draugen-ps4-fpkg/"
+    },
+    {
+      "name": "Dreadout Remastered Collection",
+      "url": "https://www.superpsx.com/dreadout-remastered-collection-ps4-fpkg/"
     },
     {
       "name": "Dreamals",
@@ -4150,11 +4154,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Night In The Woods",
@@ -7299,6 +7303,10 @@
     {
       "name": "Wo Long Fallen Dynasty",
       "url": "https://www.superpsx.com/wo-long-fallen-dynasty-ps4-fpkg/"
+    },
+    {
+      "name": "Wobbly Life",
+      "url": "https://www.superpsx.com/wobbly-life-ps4-fpkg/"
     },
     {
       "name": "Wolfenstein Cyberpilot",
