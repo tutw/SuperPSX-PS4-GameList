@@ -2,7 +2,7 @@
   "timestamp": "2025-10-24",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1869,
+  "total_games": 1871,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -867,6 +867,10 @@
     {
       "name": "Bus Simulator 21",
       "url": "https://www.superpsx.com/bus-simulator-21-ps4-fpkg/"
+    },
+    {
+      "name": "Cabernet",
+      "url": "https://www.superpsx.com/cabernet-ps4-fpkg/"
     },
     {
       "name": "Cake Bash",
@@ -3311,6 +3315,10 @@
     {
       "name": "Lego The Skywalker Saga",
       "url": "https://www.superpsx.com/lego-the-skywalker-saga-ps4-fpkg/"
+    },
+    {
+      "name": "Lego Voyagers",
+      "url": "https://www.superpsx.com/lego-voyagers-ps4-fpkg/"
     },
     {
       "name": "Lego Worlds",
