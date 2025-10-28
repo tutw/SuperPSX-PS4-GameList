@@ -2,7 +2,7 @@
   "timestamp": "2025-10-28",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1874,
+  "total_games": 1875,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4170,11 +4170,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -7459,6 +7459,10 @@
     {
       "name": "Youtubers Life 2",
       "url": "https://www.superpsx.com/youtubers-life-2-ps4-fpkg/"
+    },
+    {
+      "name": "Youtubers Life Omg",
+      "url": "https://www.superpsx.com/youtubers-life-omg-ps4-fpkg/"
     },
     {
       "name": "Ys IX Monstrum Nox",
