@@ -2,7 +2,7 @@
   "timestamp": "2025-10-29",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1875,
+  "total_games": 1876,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3671,6 +3671,10 @@
     {
       "name": "Medievil Resurrection",
       "url": "https://www.superpsx.com/medievil-resurrection-ps4-fpkg/"
+    },
+    {
+      "name": "Mega Man 11",
+      "url": "https://www.superpsx.com/mega-man-11-ps4-fpkg/"
     },
     {
       "name": "Mega Man Battle Network Legacy Collection",
