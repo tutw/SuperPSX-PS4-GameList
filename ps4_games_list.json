@@ -2,7 +2,7 @@
   "timestamp": "2025-10-31",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1876,
+  "total_games": 1877,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -6543,6 +6543,10 @@
     {
       "name": "The Wild Eight",
       "url": "https://www.superpsx.com/the-wild-eight-ps4-fpkg/"
+    },
+    {
+      "name": "The Wonderful 101 Remastered",
+      "url": "https://www.superpsx.com/the-wonderful-101-remastered-ps4-fpkg/"
     },
     {
       "name": "Thea The Awakening",
