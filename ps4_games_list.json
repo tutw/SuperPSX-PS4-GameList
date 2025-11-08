@@ -2,7 +2,7 @@
   "timestamp": "2025-11-08",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1877,
+  "total_games": 1879,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -517,6 +517,10 @@
       "url": "https://www.superpsx.com/baldurs-gate-dark-alliance-2-ps4-fpkg/"
     },
     {
+      "name": "Barbie Horse Trails",
+      "url": "https://www.superpsx.com/barbie-horse-trails-ps4-fpkg/"
+    },
+    {
       "name": "Bassmaster Fishing 2022",
       "url": "https://www.superpsx.com/bassmaster-fishing-2022-ps4-fpkg/"
     },
@@ -999,6 +1003,10 @@
     {
       "name": "Cathedral",
       "url": "https://www.superpsx.com/cathedral-ps4-fpkg/"
+    },
+    {
+      "name": "Catmaze",
+      "url": "https://www.superpsx.com/catmaze-ps4-fpkg/"
     },
     {
       "name": "Cel Damage HD",
