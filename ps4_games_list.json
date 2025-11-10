@@ -2,7 +2,7 @@
   "timestamp": "2025-11-10",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1879,
+  "total_games": 1880,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -303,6 +303,10 @@
     {
       "name": "Arcade Paradise",
       "url": "https://www.superpsx.com/arcade-paradise-ps4-fpkg/"
+    },
+    {
+      "name": "Arcade Spirits The New Challengers",
+      "url": "https://www.superpsx.com/arcade-spirits-the-new-challengers-ps4-fpkg/"
     },
     {
       "name": "Arcadegeddon",
