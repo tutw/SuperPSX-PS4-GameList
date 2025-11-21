@@ -2,7 +2,7 @@
   "timestamp": "2025-11-21",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1881,
+  "total_games": 1883,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1711,6 +1711,10 @@
     {
       "name": "Dont Starve Together Console Edition",
       "url": "https://www.superpsx.com/dont-starve-together-console-edition-ps4-fpkg/"
+    },
+    {
+      "name": "Donut County",
+      "url": "https://www.superpsx.com/donut-county-ps4-fpkg/"
     },
     {
       "name": "Doom 3 VR Edition",
@@ -4186,11 +4190,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Night In The Woods",
@@ -5887,6 +5891,10 @@
     {
       "name": "Super Robot Wars X",
       "url": "https://www.superpsx.com/super-robot-wars-x-ps4-fpkg/"
+    },
+    {
+      "name": "Super Skull Smash Go 2 Turbo",
+      "url": "https://www.superpsx.com/super-skull-smash-go-2-turbo-ps4-fpkg/"
     },
     {
       "name": "Super Toy Cars",
