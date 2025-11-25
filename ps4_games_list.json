@@ -2,7 +2,7 @@
   "timestamp": "2025-11-25",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1884,
+  "total_games": 1887,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1205,12 +1205,24 @@
       "url": "https://www.superpsx.com/crash-bandicoot-4-ps4-fpkg/"
     },
     {
+      "name": "Crash Bandicoot Carnival",
+      "url": "https://www.superpsx.com/crash-bandicoot-carnival-ps4-fpkg/"
+    },
+    {
       "name": "Crash Bandicoot Trilogy",
       "url": "https://www.superpsx.com/crash-bandicoot-trilogy-ps4-fpkg/"
     },
     {
+      "name": "Crash Bash",
+      "url": "https://www.superpsx.com/crash-bash-ps4-fpkg/"
+    },
+    {
       "name": "Crash Drive 3",
       "url": "https://www.superpsx.com/crash-drive-3-ps4-fpkg/"
+    },
+    {
+      "name": "Crash Tag Team Racing",
+      "url": "https://www.superpsx.com/crash-tag-team-racing-ps4-fpkg/"
     },
     {
       "name": "Crash Team Racing Nitro Fueled",
