@@ -2,7 +2,7 @@
   "timestamp": "2025-11-26",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1887,
+  "total_games": 1891,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -83,6 +83,10 @@
     {
       "name": "A Space For The Unbound",
       "url": "https://www.superpsx.com/a-space-for-the-unbound-ps4-fpkg/"
+    },
+    {
+      "name": "Absolum",
+      "url": "https://www.superpsx.com/absolum-ps4-fpkg/"
     },
     {
       "name": "Absolver",
@@ -1439,6 +1443,10 @@
     {
       "name": "Dcl The Game",
       "url": "https://www.superpsx.com/dcl-the-game-ps4-fpkg/"
+    },
+    {
+      "name": "Dcs Justice League Cosmic Chaos",
+      "url": "https://www.superpsx.com/dcs-justice-league-cosmic-chaos-ps4-fpkg/"
     },
     {
       "name": "Ddlotnr",
@@ -3159,6 +3167,10 @@
     {
       "name": "Keywe",
       "url": "https://www.superpsx.com/keywe-ps4-fpkg/"
+    },
+    {
+      "name": "Kill Knight",
+      "url": "https://www.superpsx.com/kill-knight-ps4-fpkg/"
     },
     {
       "name": "Kill La Kill If",
@@ -5055,6 +5067,10 @@
     {
       "name": "RPG Maker With",
       "url": "https://www.superpsx.com/rpg-maker-with-ps4-fpkg/"
+    },
+    {
+      "name": "Rue Valley",
+      "url": "https://www.superpsx.com/rue-valley-ps4-fpkg/"
     },
     {
       "name": "Ruinarch",
