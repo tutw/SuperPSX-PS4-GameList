@@ -2,7 +2,7 @@
   "timestamp": "2025-12-09",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1895,
+  "total_games": 1902,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1165,6 +1165,10 @@
       "url": "https://www.superpsx.com/connectank-ps4-fpkg/"
     },
     {
+      "name": "Conscript",
+      "url": "https://www.superpsx.com/conscript-ps4-fpkg/"
+    },
+    {
       "name": "Construction Simulator",
       "url": "https://www.superpsx.com/construction-simulator-ps4-fpkg/"
     },
@@ -2185,6 +2189,10 @@
       "url": "https://www.superpsx.com/fear-effect-ps4-fpkg/"
     },
     {
+      "name": "Fearmonium",
+      "url": "https://www.superpsx.com/fearmonium-ps4-fpkg/"
+    },
+    {
       "name": "Fell Seal Arbiters Mark",
       "url": "https://www.superpsx.com/fell-seal-arbiters-mark-ps4-fpkg/"
     },
@@ -2779,6 +2787,10 @@
     {
       "name": "Here They Lie VR",
       "url": "https://www.superpsx.com/here-they-lie-vr-ps4-fpkg/"
+    },
+    {
+      "name": "Heretic Hexen",
+      "url": "https://www.superpsx.com/heretic-hexen-ps4-fpkg/"
     },
     {
       "name": "Hero Defense",
@@ -5117,6 +5129,10 @@
       "url": "https://www.superpsx.com/ryans-rescue-squad-ps4-fpkg/"
     },
     {
+      "name": "Saga Of Sins",
+      "url": "https://www.superpsx.com/saga-of-sins-ps4-fpkg/"
+    },
+    {
       "name": "Saint Kotar",
       "url": "https://www.superpsx.com/saint-kotar-ps4-fpkg/"
     },
@@ -6353,6 +6369,10 @@
       "url": "https://www.superpsx.com/the-glass-staircase-ps4-fpkg/"
     },
     {
+      "name": "The Good Life",
+      "url": "https://www.superpsx.com/the-good-life-ps4-fpkg/"
+    },
+    {
       "name": "The Grand Tour Game",
       "url": "https://www.superpsx.com/the-grand-tour-game-ps4-fpkg/"
     },
@@ -7221,6 +7241,10 @@
       "url": "https://www.superpsx.com/visage-ps4-fpkg/"
     },
     {
+      "name": "Vlad Circus Descend Into Madness",
+      "url": "https://www.superpsx.com/vlad-circus-descend-into-madness-ps4-fpkg/"
+    },
+    {
       "name": "Void Bastards",
       "url": "https://www.superpsx.com/void-bastards-ps4-fpkg/"
     },
@@ -7523,6 +7547,10 @@
     {
       "name": "Yo Kai Watch 4",
       "url": "https://www.superpsx.com/yo-kai-watch-4-ps4-fpkg/"
+    },
+    {
+      "name": "Yohane The Parhelion Blaze In The Deepblue",
+      "url": "https://www.superpsx.com/yohane-the-parhelion-blaze-in-the-deepblue-ps4-fpkg/"
     },
     {
       "name": "Yooka Laylee And The Impossible Lair",
