@@ -2,7 +2,7 @@
   "timestamp": "2025-12-14",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1902,
+  "total_games": 1903,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4238,11 +4238,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Night In The Woods",
@@ -6135,6 +6135,10 @@
     {
       "name": "Tennis World Tour",
       "url": "https://www.superpsx.com/tennis-world-tour-ps4-fpkg/"
+    },
+    {
+      "name": "Terminator 2D No Fate",
+      "url": "https://www.superpsx.com/terminator-2d-no-fate-ps4-fpkg/"
     },
     {
       "name": "Terminator Resistance",
