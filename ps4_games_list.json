@@ -2,7 +2,7 @@
   "timestamp": "2025-12-16",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1903,
+  "total_games": 1905,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2341,6 +2341,10 @@
       "url": "https://www.superpsx.com/freedom-planet-ps4-fpkg/"
     },
     {
+      "name": "Freedom Planet 2",
+      "url": "https://www.superpsx.com/freedom-planet-2-ps4-fpkg/"
+    },
+    {
       "name": "Friday The 13Th Killer Puzzle",
       "url": "https://www.superpsx.com/friday-the-13th-killer-puzzle-ps4-fpkg/"
     },
@@ -4315,6 +4319,10 @@
     {
       "name": "Obey Me",
       "url": "https://www.superpsx.com/obey-me-ps4-fpkg/"
+    },
+    {
+      "name": "Octopath Travele",
+      "url": "https://www.superpsx.com/octopath-travele-ps4-fpkg/"
     },
     {
       "name": "Octopath Traveler II",
