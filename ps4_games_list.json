@@ -2,7 +2,7 @@
   "timestamp": "2025-12-22",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1905,
+  "total_games": 1914,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -51,6 +51,10 @@
     {
       "name": "9 Monkeys Of Shaolin",
       "url": "https://www.superpsx.com/9-monkeys-of-shaolin-ps4-fpkg/"
+    },
+    {
+      "name": "9 Years Of Shadows",
+      "url": "https://www.superpsx.com/9-years-of-shadows-ps4-fpkg/"
     },
     {
       "name": "9Th Dawn 3 Shadow Of Erthil",
@@ -839,6 +843,10 @@
     {
       "name": "Broken Pieces",
       "url": "https://www.superpsx.com/broken-pieces-ps4-fpkg/"
+    },
+    {
+      "name": "Broken Sword Shadow Of The Templars Reforged",
+      "url": "https://www.superpsx.com/broken-sword-shadow-of-the-templars-reforged-ps4-fpkg/"
     },
     {
       "name": "Brotato",
@@ -2343,6 +2351,10 @@
     {
       "name": "Freedom Planet 2",
       "url": "https://www.superpsx.com/freedom-planet-2-ps4-fpkg/"
+    },
+    {
+      "name": "Freedom Wars Remastered Contribution Edition",
+      "url": "https://www.superpsx.com/freedom-wars-remastered-contribution-edition-ps4-fpkg/"
     },
     {
       "name": "Friday The 13Th Killer Puzzle",
@@ -4069,6 +4081,10 @@
       "url": "https://www.superpsx.com/my-universe-school-teacher-ps4-fpkg/"
     },
     {
+      "name": "Myst",
+      "url": "https://www.superpsx.com/myst-ps4-fpkg/"
+    },
+    {
       "name": "N Verlore Verstand",
       "url": "https://www.superpsx.com/n-verlore-verstand-ps4-fpkg/"
     },
@@ -4242,11 +4258,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -4959,6 +4975,10 @@
     {
       "name": "Reus",
       "url": "https://www.superpsx.com/reus-ps4-fpkg/"
+    },
+    {
+      "name": "Revenge Of The Savage Planet",
+      "url": "https://www.superpsx.com/revenge-of-the-savage-planet-ps4-fpkg/"
     },
     {
       "name": "Richman 10",
@@ -6401,6 +6421,10 @@
       "url": "https://www.superpsx.com/the-house-of-dead-remake-ps4-fpkg/"
     },
     {
+      "name": "The House Of The Dead 2 Remake",
+      "url": "https://www.superpsx.com/the-house-of-the-dead-2-remake-ps4-fpkg/"
+    },
+    {
       "name": "The Idolmster Starlit Season",
       "url": "https://www.superpsx.com/the-idolmster-starlit-season-ps4-fpkg/"
     },
@@ -6773,6 +6797,10 @@
       "url": "https://www.superpsx.com/titan-chaser-ps4-fpkg/"
     },
     {
+      "name": "Titanfall 2",
+      "url": "https://www.superpsx.com/titanfall-2-ps4-fpkg/"
+    },
+    {
       "name": "Tmnt Arcade Wrath",
       "url": "https://www.superpsx.com/tmnt-arcade-wrath-ps4-fpkg/"
     },
@@ -6887,6 +6915,10 @@
     {
       "name": "Tower Of Time",
       "url": "https://www.superpsx.com/tower-of-time-ps4-fpkg/"
+    },
+    {
+      "name": "Trailmakers",
+      "url": "https://www.superpsx.com/trailmakers-ps4-fpkg/"
     },
     {
       "name": "Train Sim World 2",
@@ -7167,6 +7199,10 @@
     {
       "name": "Unturned",
       "url": "https://www.superpsx.com/unturned-ps4-fpkg/"
+    },
+    {
+      "name": "Upin Ipin Universe",
+      "url": "https://www.superpsx.com/upin-ipin-universe-ps4-fpkg/"
     },
     {
       "name": "Utawarerumono Zan 2",
