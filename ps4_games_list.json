@@ -2,7 +2,7 @@
   "timestamp": "2025-12-25",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1914,
+  "total_games": 1919,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2837,6 +2837,18 @@
       "url": "https://www.superpsx.com/hitman-2-ps4-fpkg/"
     },
     {
+      "name": "Hitman Absolution HD",
+      "url": "https://www.superpsx.com/hitman-absolution-hd-ps4-fpkg/"
+    },
+    {
+      "name": "Hitman Blood Money HD",
+      "url": "https://www.superpsx.com/hitman-blood-money-hd-ps4-fpkg/"
+    },
+    {
+      "name": "Hitman Game Of The Year Edition",
+      "url": "https://www.superpsx.com/hitman-game-of-the-year-edition-ps4-fpkg/"
+    },
+    {
       "name": "Hoa",
       "url": "https://www.superpsx.com/hoa-ps4-fpkg/"
     },
@@ -3035,6 +3047,10 @@
     {
       "name": "Injustice 2 Legendary Edition",
       "url": "https://www.superpsx.com/injustice-2-legendary-edition-ps4-fpkg/"
+    },
+    {
+      "name": "Injustice Gods Among Us Ultimate Edition",
+      "url": "https://www.superpsx.com/injustice-gods-among-us-ultimate-edition-ps4-fpkg/"
     },
     {
       "name": "Inscryption",
@@ -7075,6 +7091,10 @@
     {
       "name": "Uglydolls An Imperfect Adventure",
       "url": "https://www.superpsx.com/uglydolls-an-imperfect-adventure-ps4-fpkg/"
+    },
+    {
+      "name": "Ultimate Chicken Horse",
+      "url": "https://www.superpsx.com/ultimate-chicken-horse-ps4-fpkg/"
     },
     {
       "name": "Ultimate Custom Night",
