@@ -2,7 +2,7 @@
   "timestamp": "2025-12-29",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1919,
+  "total_games": 1921,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -2501,6 +2501,10 @@
       "url": "https://www.superpsx.com/goat-simulator-ps4-fpkg/"
     },
     {
+      "name": "Goat Simulator 3",
+      "url": "https://www.superpsx.com/goat-simulator-3-ps4-fpkg/"
+    },
+    {
       "name": "God Eater 2 Rage Burst",
       "url": "https://www.superpsx.com/god-eater-2-rage-burst-ps4-fpkg/"
     },
@@ -4547,6 +4551,10 @@
     {
       "name": "Pac Man 256",
       "url": "https://www.superpsx.com/pac-man-256-ps4-fpkg/"
+    },
+    {
+      "name": "Pac Man World 2 Re Pac Deluxe Edition",
+      "url": "https://www.superpsx.com/pac-man-world-2-re-pac-deluxe-edition-ps4-fpkg/"
     },
     {
       "name": "Pac Man World Re Pac",
