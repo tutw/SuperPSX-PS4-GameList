@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-04",
+  "timestamp": "2026-01-05",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1923,
+  "total_games": 1924,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -5819,6 +5819,10 @@
     {
       "name": "Star Wars Battlefront Classic Collection",
       "url": "https://www.superpsx.com/star-wars-battlefront-classic-collection-ps4-fpkg/"
+    },
+    {
+      "name": "Star Wars Bounty Hunter",
+      "url": "https://www.superpsx.com/star-wars-bounty-hunter-ps4-fpkg/"
     },
     {
       "name": "Star Wars Episode Racer",
