@@ -2,7 +2,7 @@
   "timestamp": "2026-01-09",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1924,
+  "total_games": 1927,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -1275,6 +1275,10 @@
     {
       "name": "Cricket 24",
       "url": "https://www.superpsx.com/cricket-24-ps4-fpkg/"
+    },
+    {
+      "name": "Cricket 26 The Official Game Of The Ashes",
+      "url": "https://www.superpsx.com/cricket-26-the-official-game-of-the-ashes-ps4-fpkg/"
     },
     {
       "name": "Crimsonland",
@@ -4861,6 +4865,10 @@
       "url": "https://www.superpsx.com/pumpkin-jack-ps4-fpkg/"
     },
     {
+      "name": "Puyo Puyo Tetris 2",
+      "url": "https://www.superpsx.com/puyo-puyo-tetris-2-ps4-fpkg/"
+    },
+    {
       "name": "Puzzle Bobble 3D Vacation Odyssey",
       "url": "https://www.superpsx.com/puzzle-bobble-3d-vacation-odyssey-ps4-fpkg/"
     },
@@ -7083,6 +7091,10 @@
     {
       "name": "Twisted Metal",
       "url": "https://www.superpsx.com/twisted-metal-ps4-fpkg/"
+    },
+    {
+      "name": "Twisted Metal Black",
+      "url": "https://www.superpsx.com/twisted-metal-black-ps4-fpkg/"
     },
     {
       "name": "Two Point Campus",
