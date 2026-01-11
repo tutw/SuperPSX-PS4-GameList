@@ -2,7 +2,7 @@
   "timestamp": "2026-01-11",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1927,
+  "total_games": 1928,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3471,6 +3471,10 @@
     {
       "name": "Lets Sing 2024",
       "url": "https://www.superpsx.com/lets-sing-2024-ps4-fpkg/"
+    },
+    {
+      "name": "Lets Sing 9 Version Espanola",
+      "url": "https://www.superpsx.com/lets-sing-9-version-espanola-ps4-fpkg/"
     },
     {
       "name": "Lets Sing Abba",
