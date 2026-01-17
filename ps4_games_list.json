@@ -2,7 +2,7 @@
   "timestamp": "2026-01-17",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1929,
+  "total_games": 1933,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3445,6 +3445,10 @@
       "url": "https://www.superpsx.com/lego-worlds-ps4-fpkg/"
     },
     {
+      "name": "Leila",
+      "url": "https://www.superpsx.com/leila-ps4-fpkg/"
+    },
+    {
       "name": "Lethal League Blaze",
       "url": "https://www.superpsx.com/lethal-league-blaze-ps4-fpkg/"
     },
@@ -4294,11 +4298,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Night In The Woods",
@@ -5057,6 +5061,10 @@
       "url": "https://www.superpsx.com/risen-ps4-fpkg/"
     },
     {
+      "name": "Rising Hell",
+      "url": "https://www.superpsx.com/rising-hell-ps4-fpkg/"
+    },
+    {
       "name": "Risk Of Rain 2",
       "url": "https://www.superpsx.com/risk-of-rain-2-ps4-fpkg/"
     },
@@ -5303,6 +5311,10 @@
     {
       "name": "Sayonara Wild Hearts",
       "url": "https://www.superpsx.com/sayonara-wild-hearts-ps4-fpkg/"
+    },
+    {
+      "name": "Sbk22",
+      "url": "https://www.superpsx.com/sbk22-ps4-fpkg/"
     },
     {
       "name": "Scar Lead Salvation",
@@ -7659,6 +7671,10 @@
     {
       "name": "Yohane The Parhelion Blaze In The Deepblue",
       "url": "https://www.superpsx.com/yohane-the-parhelion-blaze-in-the-deepblue-ps4-fpkg/"
+    },
+    {
+      "name": "Yomawari Lost In The Dark",
+      "url": "https://www.superpsx.com/yomawari-lost-in-the-dark-ps4-fpkg/"
     },
     {
       "name": "Yooka Laylee And The Impossible Lair",
