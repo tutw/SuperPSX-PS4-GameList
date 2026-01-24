@@ -2,7 +2,7 @@
   "timestamp": "2026-01-24",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1935,
+  "total_games": 1936,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -4302,11 +4302,11 @@
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
+      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
     },
     {
       "name": "Nidhogg 2",
-      "url": "https://www.superpsx.com/nidhogg-2-ps4-fpkg/"
+      "url": "https://www.superpsx.com/nidhogg-ps4-fpkg-2/"
     },
     {
       "name": "Night In The Woods",
@@ -5659,6 +5659,10 @@
     {
       "name": "Snk Heroines Tag Team Frenzy",
       "url": "https://www.superpsx.com/snk-heroines-tag-team-frenzy-ps4-fpkg/"
+    },
+    {
+      "name": "Snk Vs Capcom Svc Chaos",
+      "url": "https://www.superpsx.com/snk-vs-capcom-svc-chaos-ps4-fpkg/"
     },
     {
       "name": "Snowrunner",
