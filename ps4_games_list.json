@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-23",
+  "timestamp": "2026-01-24",
   "source": "https://www.superpsx.com/ps4-fake-pkgs-game-list/",
   "extraction_method": "Sitemap XML parsing + URL filtering",
-  "total_games": 1933,
+  "total_games": 1935,
   "games": [
     {
       "name": "10 Second Ninja X",
@@ -3425,6 +3425,10 @@
       "url": "https://www.superpsx.com/lego-marvel-super-heroes-2-ps4-fpkg/"
     },
     {
+      "name": "Lego Party",
+      "url": "https://www.superpsx.com/lego-party-ps4-fpkg/"
+    },
+    {
       "name": "Lego The Hobbit",
       "url": "https://www.superpsx.com/lego-the-hobbit-ps4-fpkg/"
     },
@@ -5455,6 +5459,10 @@
     {
       "name": "Shantae The Seven Sirens",
       "url": "https://www.superpsx.com/shantae-the-seven-sirens-ps4-fpkg/"
+    },
+    {
+      "name": "Shaolin Vs Wutang",
+      "url": "https://www.superpsx.com/shaolin-vs-wutang-ps4-fpkg/"
     },
     {
       "name": "Sherlock Holmes Chapter One",
